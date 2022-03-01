@@ -1,0 +1,1391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A profitable booke declaring dyuers approoued remedies, to take out spottes and staines, in silkes, veluets, linnnen [sic] and woollen clothes. With diuers colours how to die velvets and silkes, linnen and woollen, fustian and threade. Also to dresse leather, and to colour felles. How to gylde, graue, sowder and vernishe. And to harden and make softe yron and steele. : Very necessarie to all men, speciallye for those which hath or shall haue any doinges therein: with a perfite table herevnto, to fynde all thinges readye, not the like reuealde in English heretofore. / Taken out of Dutche, and englished [sic] by L.M..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1583</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00420</idno>
+            <idno type="STC">STC 17590</idno>
+            <idno type="STC">ESTC S126114</idno>
+            <idno type="EEBO-CITATION">54532417</idno>
+            <idno type="OCLC">ocm 54532417</idno>
+            <idno type="VID">180840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2140:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A profitable booke declaring dyuers approoued remedies, to take out spottes and staines, in silkes, veluets, linnnen [sic] and woollen clothes. With diuers colours how to die velvets and silkes, linnen and woollen, fustian and threade. Also to dresse leather, and to colour felles. How to gylde, graue, sowder and vernishe. And to harden and make softe yron and steele. : Very necessarie to all men, speciallye for those which hath or shall haue any doinges therein: with a perfite table herevnto, to fynde all thinges readye, not the like reuealde in English heretofore. / Taken out of Dutche, and englished [sic] by L.M..</title>
+                  <author>Mascall, Leonard, d. 1589.</author>
+               </titleStmt>
+               <extent>[2], 78, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Purfoote, and William Pounsonbie.,</publisher>
+                  <pubPlace>Jmprinted at London :</pubPlace>
+                  <date>1583..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette; head-piece; initial.</note>
+                  <note>L.M. = Leonard Mascall -- Cf. Stc (2nd ed.).</note>
+                  <note>Includes index.</note>
+                  <note>Signatures: A-L⁴ (last leaf blank).</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dyes and dyeing --  Early works to 1800.</term>
+               <term>Spotting (Cleaning) --  Early works to 1800.</term>
+               <term>Metal-work --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180840:1"/>
+            <pb facs="tcp:180840:1"/>
+            <p>A profitable boke declaring dyuers approoued re<g ref="char:EOLhyphen"/>medies, to take out ſpottes and ſtaines, in Silkes, <hi>Veluets, Linnnen and Woollen clothes.</hi>
+            </p>
+            <p>
+               <hi>With diuers colours how to die <g ref="char:V">Ʋ</g>el<g ref="char:EOLhyphen"/>vets</hi> and Silkes, Linnen and Woollen, Fuſtian <hi>and Threade.</hi>
+            </p>
+            <p>
+               <hi>Alſo to dreſſe Leather, and to</hi> co<g ref="char:EOLhyphen"/>lour Felles. How to Gylde, Graue, Sowder, and <hi>Ver<g ref="char:EOLhyphen"/>niſhe. And to harden and make ſofte</hi> Yron and Steele.</p>
+            <p>
+               <hi>Very neceſſarie for all men, ſpeciallye for thoſe
+<hi>which hath or ſhall haue any doinges therein: with</hi>
+               </hi> a perfite table herevnto, to fynde all thinges readye, not the like reuealde in English hereto<g ref="char:EOLhyphen"/>fore.</p>
+            <p>TAKEN OVT OF DVTCHE, and engliſhed by <hi>L. M.</hi>
+            </p>
+            <p>¶ <hi>Jmprinted at London by</hi> Thomas Purfoote, and William Pounſonbie. 1583</p>
+         </div>
+      </front>
+      <body>
+         <div n="cloth-dyeing" type="part">
+            <pb facs="tcp:180840:2"/>
+            <pb facs="tcp:180840:2"/>
+            <div type="recipe">
+               <head>To make Cloth whiche hath loſt his colour, to returne vnto his firſt eſtate agayne.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>AKE OF VNQVEN<g ref="char:EOLhyphen"/>ched</hi> lyme two ounces, of Oake aſhes two ounces, of cleare wa<g ref="char:EOLhyphen"/>ter two pound. Then meddle the<g ref="char:cmbAbbrStroke">̄</g> well all together, and ſo let them reſt one quarter of an houre, and then doe clarifie that water, and therewith waſh your cloth, and it will returne vnto his firſt colour, and waxe fayre agayne as before.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ To waſh a ſcarlet which is greaſie.</head>
+               <p>Take of whyte tarter wel and finely beaten, foure oun<g ref="char:EOLhyphen"/>ces: then boyle it in two pound of fayre water, till the thyrde part be conſumed: then take it from the fyre, and let it coole, and then ſtrayne it through a linnen cloth, and when ye will vſe thereof, make it then milke warme, and waſh therewith your cloth. Then hang it to drye, and you ſhall ſee it fayre, and returne to his firſt eſtate and coloure agayne.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ To make all colours of ſilkes which be ſtaynde, to come to their firſt colour againe.</head>
+               <p>Fyrſt take one ounce of vnquenched lyme, and of the a<g ref="char:EOLhyphen"/>ſhes of a vyne one ounce, alſo of aſhes of an Oake one ou<g ref="char:cmbAbbrStroke">̄</g>ce and a halfe. Put all theſe into a baſen of cleare water, and meddle them all well togither, then heate them a little o<g ref="char:EOLhyphen"/>uer <pb n="2" facs="tcp:180840:3"/>the fyre, and when it is warme, take it of the fyre, and let it clarifie a while, ſo done, then take a ſponge and waſh your ſtaynie ſpottes therewith, and ſee that ye weat no other place, but the ſpotty places only, and ſo they wil be well agayne.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ To make a ſope to take forth greace or other ſpoties whatſoeuer they be.</head>
+               <p>Take one pound of roche Allum burnd and made into a fyne poulder. Alſo take of the rootes cald flames of Flo<g ref="char:EOLhyphen"/>rence (ſo calde in Dutche) halfe a pound: then beate it in to a pouder. Then take a new layde egge, &amp; of white ſope two pound and a halfe, then blend your pouder, and your egge and ſope altogether well, and thereof make pellots or bals, and if one egge be not ſufficient, then take ii. or ſo much as ſhall ſuffice to make your ſayd paſte withal, and when ye ſhall haue occaſion to take forth anye ſpotte, take firſt of commen water and waſh your ſpots on both ſides withal warme, then take of the ſayd pellots, and rubbe al ouer the ſpottes in the cloth, ſo done: then waſhe out the filth with fayre cleare water, and if there remayne ſome part and be not all cleane, waſh it agayne as afore is me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tioned, till it be all cleane, and ſo ſhall ye haue it as fayre as before.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Another good way to take forth ſpots of greace out of any woollen or linnen.</head>
+               <p>Take firſt a little fayre water, all to weate and rubbe therewith the ſayd greace ſpottes. Then take a quantity of walkars claye, called Fullars earth, and rubbe a little therewith your ſpottes all ouer. Then rubbe and chafe <pb n="3" facs="tcp:180840:3"/>your cloth one vppon another, ſo done, take a ſyluer ſpone or ſuch like thing, and ſcrape out the ſayde filthie water and greace, and if then it bee not all cleane foorth, doe ſo agayne as before is mentioned, and then take a little warme water, and all to weate the ſayde place ther<g ref="char:EOLhyphen"/>with, ſo done, Then wring and ſcrape it foorth as the other afore. Being then cleane, let it be dryde and it will be well.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ To take away all ſpottes on coulered Clothes, be they linnen or woollen</head>
+               <p>If there chaunce by fortune, to fall a droppe of ynke, or any other ſtayne, vppon any cloth dyed or coloured, or be<g ref="char:EOLhyphen"/>ing cleane whyte, woollen or linnen. Ye ſhall doe as here<g ref="char:EOLhyphen"/>after followeth, that is: take of the iuyce of rawe Lem<g ref="char:EOLhyphen"/>mons, or the iuyce of a great Orange Apple, which hath a hard pill or ſkinne, which the Italions call <hi>Pommes Da<g ref="char:EOLhyphen"/>dam.</hi> Or if ye will take onlye the egar or ſharpe iuyce which is in the pouncitron, and ſtrayne it foorth thereof, and with the iuyce yee ſhall all to rubbe and chaufe the ſayde ſpottye places, and then waſh it with luke warme water, and ſo then ſcrape out all the filth thereof, with ſome ſpoone as aforeſayde, or wring it cleane foorth with your handes. If at the firſte time peraduenture it bee not cleane, vſe it likewiſe agayne the ſeconde tyme, as before, and ſo your cloth will come vnto as good eſtate as at the fyrſte, nor this ſhall not hurte anye coloure thereof.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Another good way to make cleane ſpottes of greace, out of all woollen clothes.</head>
+               <p>Take an hearbe called wood ſorrel, or ſtubwort, which is green, &amp; groweth in woods, in buſhes &amp; ſtubs of old trees,
+<pb n="4" facs="tcp:180840:4"/>and hath three ſmall leaues lyke a hart, it taſteth ſharpe lyke other ſorrell. Which hearbe ye ſhall diſtill in a lym<g ref="char:EOLhyphen"/>bee, and ſo reſerue the diſtild water in a glaſſe very cloſe, and when you neede to take foorth any ſpotte of greace, then take of the diſtylde water, and rubbe therewith all ouer the ſayd ſpottes. Then chafe your cloth one vppon another: ſo done, take a ſpoone, or ſome other lyke thing, and take away the ſayd filthie water therewith. Then if it be not all cleane, doe it likewiſe agayne as before, with the diſtilde water warmed, and then yee ſhall ſee it will doe well, and ſhewe fayre and cleare as it was at the firſte.</p>
+            </div>
+            <div type="recipe">
+               <head>Another good way to take out ſpottes out of clothes with a lye.</head>
+               <p>Take three pintes of water, and put therein halfe a pounde of pot aſhes, and ſtirre it well altogether. Let it ſo ſtande the ſpace of foure dayes, but yee muſt in euerye daye ſtirre it three or foure times. So done, poure foorth the cleare water from the aſhes, and put of galles therin, then it will waxe a greene: but if ye wil haue it a blacke, then put a little ſoote to ſoke in fayre water, and put that black water therein. With this warmed, ye maye waſhe your ſpottie places in any place of your clothes, &amp; it will take it forth fayre and cleane.</p>
+            </div>
+            <div type="recipe">
+               <head>To perfume clothes.</head>
+               <p>Take a violl of Roſe-water, in the which ye ſhall put eyghteene or twentie graynes of Muſke, and Ciuet, with a little of Ambergreace, then ſet all on the fyre, and whe<g ref="char:cmbAbbrStroke">̄</g> it begins to waxe warme, take it from the fyre, and let it coole, and ſtoppe it cloſe the ſpace of two dayes, and when ye will perfume your clothes therewith. Set it on the fyre agayne, and being warme, holde your clothes ouer <pb n="5" facs="tcp:180840:4"/>it, and ſo it ſhal receiue the fume.</p>
+            </div>
+            <div type="recipe">
+               <head>To take out ſpottes out of gownes and clothes.</head>
+               <p>Take the rootes of <hi>Limonio<g ref="char:cmbAbbrStroke">̄</g>,</hi> cald in Latine, in Engliſh I take it to be the wild Bete. Take the rootes, and ſeeth them in water, and with the ſame water, waſh the ſpotty places in your gownes or other garments, and it will be cleane.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a ſope to take out ſpottes of oyle and of greace.</head>
+               <p>Take of good ſcowring ſope, and mixe it finely with the ſyfted aſhes of a vyne, of eche in like portion, the<g ref="char:cmbAbbrStroke">̄</g> put therevnto a quantitie of the powder of burnt allum, and alſo of the lies of wyne, beaten into a fine pouder, and put it therevnto, then mixe and incorporate all theſe well to<g ref="char:EOLhyphen"/>gether, then make thereof ſquare brickes, or round bals, and when yee ſhall haue neede to occupye thereof, then take of warme water, and rubbe and chafe all ouer your ſpottye places, and then rubbe thereon with your ſope ball, if then it be not all cleane, then muſt ye take your warme water agayne, and rubbe and chaffe it, as yee did before, and then your ſope, and ſo at length ye ſhal haue it cleane forth.</p>
+            </div>
+            <div type="recipe">
+               <head>A very good way to take out ſpottes of oyle out of clothes.</head>
+               <p>Fyrſt ye ſhal take of the oyle of tartar, and rubbe ther<g ref="char:EOLhyphen"/>with on the ſpotty places, and then ſcrape it away incon<g ref="char:EOLhyphen"/>tinent agayn, then ye ſhall waſh it well with luke warme water, and three or foure times with colde water, ſo then <pb n="6" facs="tcp:180840:5"/>wring it foorth, and ſee if all the ſpots be cleane out, if not, waſh it agayne, ſo long as you did before, and ſo the cloth ſhal be as fayre as it was when it was new, or be<g ref="char:EOLhyphen"/>fore any ſpots came on it. There is alſo another way, for to take forth ſpots with this cyle of Tartar, but becauſe I haue not the true knowledge thereof, I wil not here ex<g ref="char:EOLhyphen"/>preſſe it.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ A ſope water to take out all ſpots.</head>
+               <p>Alſo, ſome doe vſe to take the water wherein ſtraw<g ref="char:EOLhyphen"/>berries had bene ſodde, and with that water ye ſhal wete and ſoke the ſpottye places, then take fayre water, and waſhe out all the filth thereof, ſo done: take and hang it in the ſonne to drye, and it will be ſo cleane as before it was.</p>
+            </div>
+            <div type="recipe">
+               <head>A way to take out yron moles, out of all linnen cloth.</head>
+               <p>Take and wring forth ſo much of the iuice of the ſow<g ref="char:EOLhyphen"/>reſt Orange, or Limon that ye can get, then take of the ſame iuyce, and rubbe the place of the yron moll therwith ſo let it dry, and euer as it dryeth in, rubbe it ouer again, thus doe often, and euer as you haue wet it, let it reſt and drie in the ſunne, and at the length ye ſhall ſee it will bee all forth and cleane.</p>
+            </div>
+            <div type="recipe">
+               <head>A way to take out ſpottes in ſcarlet or veluet, of what co<g ref="char:EOLhyphen"/>lour or ſort ſoeuer it bee, not chaunging the colours.</head>
+               <p>Take a hearbe (called of the ſurgeons) Saponaria, in frenche called <hi>Foullons,</hi> in Engliſh Sopewort, beat them oft, and take out the iuyce, and put thereof on the ſpottes, <pb n="7" facs="tcp:180840:5"/>then let it ſo reſt the ſpace of one houre if it be in ſommer, but if it be in winter let it reſt foure houres, then waſhe thoſe ſpotty places with fayre cleane water, ſo ſhall it be cleane to ſeeme too, but put once agayne the ſayde iuyce thereon. Alſo if the ſcarlet be not dyde in the cleare grain then ye may put therevnto halfe of black ſope, with ſo much of the ſayd iuyce, ſo mingle it together, and then frote it thereon, then let it be waſhte in luke warme wa<g ref="char:EOLhyphen"/>ter, and then ye ſhall ſee the ſpots cleane forth. For this way is proouded by experience to be true.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to take out yron moles out of linnen.</head>
+               <p>Make a chafer ſeeth full of water, then take your cloth and wet it with the iuyce of Limons, or ſower Oranges, or crabbes, or ſower wildinges, and then holde it harde to the ſide of the chafer, and euer as it dryeth in, weat it ſtill agayne, till ye ſee the moll go forth: for all theſe thinges aforeſayd are good, but the iuyce of Limons and Oren<g ref="char:EOLhyphen"/>ges are the beſt. So euer as ye haue weate your ſpottes with the ſayd iuyce, hold it then hard vnto the ſyde of the chafer, as is aforeſayd, thus doe vntill it weare awaye, for this way hath bene proued true often. Or take the boy<g ref="char:EOLhyphen"/>ling iuyce of Sorrell, and lay it therin, and rubbe it with the back of a ſpoone till it be out.</p>
+            </div>
+            <div type="recipe">
+               <head>How to take out oylie ſpottes out of parchement or writing paper.</head>
+               <p>Take a mutton bone and burne it to poulder, then let it be fyne beaten, then put of this poulder on both ſides of your ſpots, and let it be preſt betweene two hard boordes, the ſpace of two dayes, then take it out, and ye ſhal ſee the oyle to be cleane gone, be it eyther parchment or paper.</p>
+               <pb n="6" facs="tcp:180840:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:180840:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="recipe">
+               <pb n="8" facs="tcp:180840:7"/>
+               <head>Another way to take out ſpottes of paper.</head>
+               <p>Ye ſhall take off the water willow boughes, and make aſhes therof, or aſhes of the buds of the vine, with y<hi rend="sup">e</hi> huſks of greene beanes, ſteepe them in water a day and a night, then put of the ſame water on the ſpots, then preſſe it; and let it ſo remayne for a daye and a nighte, or as ye ſhall ſee cauſe, and ye ſhall ſee it will doe well.</p>
+            </div>
+            <div type="recipe">
+               <head>A very good waye to take out ſpottes of clothes.</head>
+               <p>Take of the rootes of the hearbe called <hi>Gentian,</hi> in en<g ref="char:EOLhyphen"/>gliſh brome, take and burne of it, and make aſhes thereof, and with the aſhes make a lie, and with the ſaid lie, ye ſhal waſh your ſpotty clothes, and in a ſhort ſpace it will take away all the ſpots therof. Well prooued.</p>
+            </div>
+            <div type="recipe">
+               <head>A good way to take out ſpottes out of woollen.</head>
+               <p>Take aſhe water, and the powder of Allum together, then take of the aſhes thereof, and lay it vpon the ſpottye places on the cloth, and when it is drie: doe ſponge it off, and ye ſhall ſee it cleane.</p>
+            </div>
+            <div type="recipe">
+               <head>Another agaynſt ſtaines in linnen cloth.</head>
+               <p>Firſte take your cloth and rubbe it well all ouer with baye ſalte, then take an Orange and cutte it in two, and wring the iuyce thereon, and laye the ſayde Orange vp<g ref="char:EOLhyphen"/>on the ſpottes alſo: and ſo lette it reſt an hower or two, <pb n="9" facs="tcp:180840:7"/>then lay them in a bucke and waſh them, and they wil be fayre and cleane. Or elſe ye may lay thereon the iuice of ſorrell and ſalte, and ſo put them into the buck as is afore ſayd.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ A way to keepe ſilke from ſtayning in the waſhing.</head>
+               <p>Take fayre water and ſeeth it, and being all ſeething hote, put therevnto of ſope and let it ſo melt therein, then take it from the fyre, and let it coole til it be almoſt colde, and then at your pleaſure yee may waſhe therewith your clothes, and it will ſcoure well, and not ſtayne your ſilke, and after ye haue waſht them, doe not let them lye weat long together, but lay drye clothes betweene, or elſe they he in daunger to ſtayne: and this way you may ſaue both Sylke and Golde withoute chaunging of theyr co<g ref="char:EOLhyphen"/>lour.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Another verye good way to keepe Golde from ſtayning.</head>
+               <p>Firſte take your Golde and annoynte it all ouer with good Honye, then ſette it in the Sunne, and lette it reſte the ſpace of halfe an houre, and nowe and then lette it bee turnde in the Sunne. Then after take and waſhe it in the foreſayde ſopie water, and this way it ſhall neuer chaunge nor ſtayne, but keepe colour long.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Howe to bucke linnen clothes, and to ſcoure oute all ſpottes of greace.</head>
+               <p>Firſte yee ſhall laye all your foule clothes to ſoke
+<pb n="10" facs="tcp:180840:8"/>in colde water, then driue them as yee doe a bucke of clothes, and when they are well driuen: then ſhall yee take them all forth of the bucking tubbe, then laye them agayne abroade in the ſayd tubbe, without any lye, and e<g ref="char:EOLhyphen"/>uer as ye lay them betwixt euery cloth: ſcrape of chalke thinne all ouer, thus when ye haue all layde them: then put of your lye vnto them, and ſo chaunge your lye twiſe or thriſe after, then take and waſh them forth, and they will be fayre and cleane without greace and very white withall.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ A good way to keepe linnen fayre 20 yeares without re<g ref="char:EOLhyphen"/>mouing, and will not waxe moulye nor rotte.</head>
+               <p>Fyrſt take your linnen in marche (ſo much as you in<g ref="char:EOLhyphen"/>tend to keepe vnremoued) and waſhe them, and then drye them fayre agayne. So laye them vp in your cheaſtes vntill May next following: then ſhall ye take them oute and waſh them agayne, when ye haue ſo waſhte them, looke that ye doe then drye them thorowly and well, and then folde them fayre vp, and lay them in your cheſtes or preſſe, and yee ſhall not neede for to remooue them in twentye yeares after, yet they ſhall continue drye and well.</p>
+            </div>
+            <div type="recipe">
+               <head>How to ſponge woollen clothes.</head>
+               <p>Take a quart of fayre water, and let it be heat luke warme on the fyre, then take a quantitie of walkers clay and al to cruſh it therin, then let it ſtand vntil it be cleare, then poure that water into another potte, and ſet it on the fyre agayne, till it begin to ſeethe: then take of Venice ſope, or other good ſope, and put thereof into the ſayd wa<g ref="char:EOLhyphen"/>ter, in ſtirring it well all about, then take it of the fyre, <pb n="11" facs="tcp:180840:8"/>and all hote, ſponge or occupye therewith at your plea<g ref="char:EOLhyphen"/>ſure, in making it alwayes warme, euer when yee will occupye thereof.</p>
+            </div>
+            <div type="recipe">
+               <head>How to make crane colour Fuſtian to be as fayre can<g ref="char:EOLhyphen"/>uas as at the firſt.</head>
+               <p>Firſt for the proofe thereof, take a peece of crane co<g ref="char:EOLhyphen"/>lour Fuſtian, and take alſo as much of the iuyce of Oren<g ref="char:EOLhyphen"/>ges, or Limons as will weat the ſayd peece thorowe, then let it reſt and drie in, and the ſayd Fuſtian wil be as faire canuas as it was before it was coloured, thus if yee can get ſo much iuyce of Oranges or Limons for to ſerue your purpoſe, yee maye returne the colour agayne, what quantitie yee ſhall thinke good, for this hath bene well proued.</p>
+            </div>
+            <div type="recipe">
+               <head>Thinges to keepe moughths from clothes, very good in ſommer and other times.</head>
+               <p>The flying moughths will bee in the beginning of Iune, and continue till Auguſt, but they are chieflye from mid Iuly to mid Auguſt. The running moughth he will continue in your cheaſts all the yeare long, winter and ſommer, whiche are greate ſpoylers of geare and other thinges. For the flying moughth. Take the powder made of drye Orange Pilles, and the powder of Elecompane rootes mixt together, and ſo caſt it among your cloths, al<g ref="char:EOLhyphen"/>ſo perfume in a chafingdiſh of coles your clothes there<g ref="char:EOLhyphen"/>with. Thus you may vſe quarterly, and it will ſaue the<g ref="char:cmbAbbrStroke">̄</g>. Or ye may take the powder of Arras, with the powder of Ginoper, alſo the powder of ſitrinum, caſt among clothes ſaues them from moughths. Wormewood or Lauendar ſmall preuayleth. Some vſeth oyle of ſpyke to annoynte their cheaſts, and hang it in bladders therein. Some laies <pb n="12" facs="tcp:180840:9"/>the hearbe called Flewort, in Latin <hi>pulicaris,</hi> which if ye lay it in your cha<g ref="char:cmbAbbrStroke">̄</g>ber, no flea wil breede, ſome takes brim<g ref="char:EOLhyphen"/>ſtone, &amp; perfumes therewith, but for the running mougth I know nothing but ſtrong perfuming, and remoouing your geare.</p>
+            </div>
+            <div type="recipe">
+               <head>A way for to take out ſpottes of wollen clothes.</head>
+               <p>Take and ſeeth of common aſhes in fayre water, and the pouder of Allum together, and then take of the ſayde aſhes and lay thereof on the ſpots and ſo rubbe it in, then let it drye, and when it is thorowly dryde, then take a ſponge and ſponge it away, as it is declared of the other afore.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ A good way to helpe all ſtaynes in thinne ſilkes and woollen clothe.</head>
+               <p>Take of good ſtrong vineger, and make it luke warme, then dip a black cloth therein, and then rubbe therewith your ſtainie ſpots al ouer: ſo done, the<g ref="char:cmbAbbrStroke">̄</g> take away ſo much of the ſayd fylth as ye can with a ſpoone, as for the reſte, ye muſt haue all ready a tailors yron hote, and lay a peece of blacke cloth on the ſpottes betwixte the yron and the cloth, and ſo drie out all the reſt of the ſayd filth with the hote yron, and then yee ſhall ſee it will doe well and bee fayre.</p>
+            </div>
+            <div type="recipe">
+               <head>A pleaſaunt water to preſerue linnen, or any other thing, yielding a pleaſaunt ſauour a long time after.</head>
+               <p>Take 2 pound of ſpike flowers, as much of roſe leaues, one pound of coſt mary, with halfe a pound of marioram, <pb n="13" facs="tcp:180840:9"/>as much of Balnea, two great handfull of Organy or pe<g ref="char:EOLhyphen"/>niryall, foure ounces of mace, a quarter of a pound of Ar<g ref="char:EOLhyphen"/>ras poulder, let all theſe well ſeke together in red wyne, then put it all into a pot cloſe ſtopte that the ayre doe not paſſe. Let it ſtande ſo the ſpace of foure and twentie houres, then let it bee put into a diſtillitorie, and ſee that it bee well ſtopte, (rounde aboute) with flowre, egges, and water, mixte well together, and ſee that no ayre do come nor go oute, but at the ſpoute onely. Vp<g ref="char:EOLhyphen"/>on the ende thereof ye ſhall hang a fine linnen cloth with a grayne of muſke or Ambergreace, within it, vppon the which ye ſhall alwayes let the ſpoute droppe on, and yee ſhall ſee it will be a pure water for that purpoſe, ye ſhall alſo take to the diſtilling of the foreſayd thinges, halfe a pounde of baye leaues, ſo ſhall this water be good for the purpoſe as is afore mentioned.</p>
+            </div>
+            <div type="recipe">
+               <head>A good way to waſhe a ſhirte, and ſaue the Golde or Silke thereon, from ſtaining.</head>
+               <p>Take a newe ſhirte fyrſte of all afore it be euer weat, and lay the coller and ruffes or ſilke in piſſe ſomewhat warme halfe an houre ſpace, then take it forth, and then waſh him in hote ſchalding licar, or ſeeth him, and it ſhall neuer ſtayne the ſilke. If ye haue not piſſe, yee maye take groundes of ſtrong beare or ale, and let the ſilke lye ther<g ref="char:EOLhyphen"/>in, the night before ye doe waſh it. And this hath bene oft proued very true. But alwayes ye muſt foreſee, that ye hang not your clothes in the hote ſunne, after they bee waſhte, but laye another cloth thereon betwixte the Sunne and it, or elſe the Sunne wyll chaunge both Golde, Siluer and Silke. Therefore it is better <pb n="14" facs="tcp:180840:10"/>to hang them in ſome place of ſhade after their waſhing, if ye can. Alſo to ſope your water to much, or your clothes is an occaſion to ſtaine both golde and ſilkes. A very good way is: firſt to melt your ſope in the lycour, and then let it coole, and ſo to waſh your clothes therein.</p>
+            </div>
+            <div type="recipe">
+               <head>Agaynſt clothes ſtaynde with wine or vineger.</head>
+               <p>Take of warme Cow milke and waſh your cloth ther<g ref="char:EOLhyphen"/>in, or waſh it in whay and ſalt, other elſe as ſoone as your clothes are ſo ſtaynde by miſchaunce of wine or other thinges, doe caſt of ſalte thereon incontinent, ſo then it will preſerue it from ſtayning, whether it bee wollen or linnen.</p>
+            </div>
+            <div type="recipe">
+               <head>A very good way to take forth waxe or roſin dropte on ſilke, wollen or linnen.</head>
+               <p>Whereas ye ſhal haue any ſuch occaſion to take forth waxe or Roſine dropt on any ſilkes, or other clothes. Firſt ye ſhall make a preſſing yron hote, or ſome ſyluer ſpoone, with a cole of fyre therein, take eyther of them when they he hote, and firſt whereas any Roſin or waxe is dropt, yee ſhall firſt rubbe on the ſayd droppes of waxe or roſin al o<g ref="char:EOLhyphen"/>uer: with the end of a tallow candle, the<g ref="char:cmbAbbrStroke">̄</g> take eyther your yron or ſpoone aforeſayd, and holde it thereon, laying a peece of broune paper betwixte your yron and your wax, then after yee haue a little ſo touched it with the heate, (the waxe and tallow will mingle together, and ſoke in<g ref="char:EOLhyphen"/>to the broune paper) then take it off, and annoynt it with the ſayd tallow agayne, and then holde your hote yron, or ſpoone, as before, and thus ye muſt doe, as aften as ye ſhal ſee cauſe, vntill it be all cleane forth. If the waxe be dropt thorow on both ſides, vſe the one ſide like the other, and ſo
+<pb n="15" facs="tcp:180840:10"/>ye ſhall get it cleane: and looke euer that ye ſhifte youre browne paper to a cleaner place, from the place it was before touched with waxe, and this order keeping, it ſhall be al wel and cleane. Often proued.</p>
+            </div>
+            <div type="recipe">
+               <head>A ſope to take out all ſpottes in woollen cloth.</head>
+               <p>Take of Venice ſope a quarter of a pound, the yolkes of three egges, of ſalt finely beaten halfe a ſpoonefull, of the iuyce of Betes, halfe a ſpoonefull, or as much as will make it thicke like a paſte, then make them into pretye balles, and let them drye out of the heate of the ſunne, in ſome ſhadow place, and whenſoeuer ye will occupy there<g ref="char:EOLhyphen"/>of, firſt wet your ſpots thorowe with fayre cleare water, and then take your ball and rubbe it thereon, and waſh it then cleane forth as is afore mentioned of the other, thus doe, and yee ſhall ſee that they ſhall be cleane forth, as before.</p>
+            </div>
+            <div type="recipe">
+               <head>Another for the ſame.</head>
+               <p>Fyrſte ye ſhall take of white ſope halfe a pounde, and ſhread it very ſmall, then take of the gall of an Oxe, or of a hee Goate, with ſome Allum, of eyther of them an ou<g ref="char:cmbAbbrStroke">̄</g>ce, take the yolkes of two egges, with a quantitie of fine ſif<g ref="char:EOLhyphen"/>ted aſhes, put them altogether in a morter, and beat them, and when they be well mixt, make them into balles, and whenſoeuer ye ſhall neede thereof, take of fayre warme water, and rubbe the place all ouer therewith, and then ſtrike with your ball thereon, and then ſhall ye rubbe cloth vpon cloth, and waſhe it then foorth, as aforeſayde, and it will be cleane.</p>
+               <pb n="14" facs="tcp:180840:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:180840:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="recipe">
+               <pb n="16" facs="tcp:180840:12"/>
+               <head>Another way good to helpe ſpottes or ſtaynes.</head>
+               <p>Ye ſhall firſt take halfe a gall of an Oxe, the older the better, of feny greke made in fyne poulder halfe a pounde, a quarter of a pounde of white ſope, a gallon of ſtrong common lye, mixe altogether therein, and ſet them on the fyre, and ſeeth them ſoftly till they be halfe waſted, and whenſoeuer ye will occupye thereof, heate it warme, and waſh your ſpottes therwith, in mixing it often with faire colde water, and it ſhall doe well.</p>
+            </div>
+            <div type="recipe">
+               <head>How to take out ſpots of white ſilkes, or other coloures.</head>
+               <p>Take of the beſt and ſtrongeſt Aquavite, three pintes, with the which you ſhall wete your ſpottes, &amp; take a new layde egge and beate it, and rub thereon your ſaid ſpots, and ſo ſet in the ſonne and let it drye in: this done, waſhe it then with a freſh and cleare water, and then wring or preſſe the ſayd water forth, or preſſe it betwixt your ha<g ref="char:cmbAbbrStroke">̄</g>ds, and ſo they ſhall be cleane, as for cloth in grayne, ye maye waſh the ſpots well with Allum water, then rubbe cloth vnto cloth, and ſo waſh it forth with cleare water agayn, and it will be well. If it be not at the firſt all cleane oute: doe ſo likewiſe agayne, ſo long as ye ſhal ſee cauſe of any ſpots remayne, and ſo they ſhal be well.</p>
+            </div>
+            <div type="recipe">
+               <head>A proued way how to take out oylie ſpottes out of cloth.</head>
+               <p>Take of the oyle of Tartar, ſo much as wil couer your other ſtaynes, and put it thereon, and ſtraighte way take it off agayne, and waſhe it then well with fayre warme <pb n="17" facs="tcp:180840:12"/>water. Then take cold water alſo and waſh it iii or foure times ouer, after that, in chaunging it ſtill with new wa<g ref="char:EOLhyphen"/>ter, this done, you ſhal ſee it will be as fayre as the reſt, and as it was before.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to take out all waxe, Roſin or pitche, on Silkes or other clothes.</head>
+               <p>Firſt take of tallow or other greace (be it ſalt or freſh) and melte it, and being ſeething hote, put thereof on your ſayd ſpottes of waxe, Roſine, or Pitche, then take of hote licor, and hold your ſayd ſpottes therein, &amp; then rub cloth vpon cloth, betwixt your ha<g ref="char:cmbAbbrStroke">̄</g>ds. So done, then wring forth the ſayd greazie water, and if ye then ſee it will not be al cleane forth, ſerue it ſo agayne, annoynting your ſayde ſpottes with tallowe or greace, and then doe cleanſe foorth the greaſye water as afore is mentioned. For this waye hath bene well and often proued, and doeth helpe.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ To take foorth gteace out of Silke, Veluet, Mocca<g ref="char:EOLhyphen"/>do or others.</head>
+               <p>Take and heate water and put a handful of cleane fea<g ref="char:EOLhyphen"/>thers therin, &amp; then let it coole til ye may ſuffer your ha<g ref="char:cmbAbbrStroke">̄</g>d therin, &amp; lay your ſilke abroad, and take your feathers and rub al ouer the ſpot, then rub therouer with Caſtile ſope, and then with your feathers again al vp &amp; down, weting them twiſe or thriſe, and ſo rub it vp &amp; down, the<g ref="char:cmbAbbrStroke">̄</g> wring it a little &amp; dry it in the ſunne or wind: but if it be Veluet, after ye haue ſo rubde it: the veluet wil lye, then muſt ye take a cloth of woollen, &amp; heat it, the<g ref="char:cmbAbbrStroke">̄</g> annoynt it light ouer with butter, &amp; chafe your cloth together, to rub in y<hi rend="sup">e</hi> but<g ref="char:EOLhyphen"/>ter, the<g ref="char:cmbAbbrStroke">̄</g> heat it a little, &amp; rub your veluet vp &amp; down ther<g ref="char:EOLhyphen"/>with, &amp; it wil then riſe again, and be as fayre as before.</p>
+            </div>
+            <div type="recipe">
+               <pb n="18" facs="tcp:180840:13"/>
+               <head>To take out ſpottes of cloth.</head>
+               <p>They take the ſtraight bones in ſheepes feete that are ſodde, and drye them and make them into poulder, with the which you ſhall lay on the ſpotted cloth, layde in the Sunne, and rubbe this poulder thereon till it goe all foorth.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye wooll red.</head>
+               <p>Ye ſhall put too foure pounde of woollen yearne, tenne ounces of Allum, and ſeeth it with branne water ſo much as ye ſhall thinke good, then take your yearne oute, and put that water out of that Kettle, and put therein agayne three partes of freſh branne water, and one parte of fayre cleare water, then warme it a little on the fyre, then put therein two pound of grening weede, and let it ſo warme a while, then put therein your wooll, and ſtyr it wel with a ſticke the ſpace of three howers, but let it not ſeeth in a<g ref="char:EOLhyphen"/>ny wiſe, ſo done, then take out your wooll agayne, and put it agayne into your Kettle, and put thereto half a glaſſe<g ref="char:EOLhyphen"/>full of vnſleakte lime, with as much of common aſhes, and thereto put your wooll agayne, and ſtyrre it with a ſtaffe ſixe or ſeuen Paternoſter whiles, than take foorth youre wooll, and ye ſhall haue a fayre colour. But if yee will haue it yet a more ſanguine coloure, then muſt you putte into your Kettle halfe a little glaſſe full of more lime, and a little glaſſe full of common aſhes, and thereto put your wooll agayne, and ſtirre it well ſtill foure or fyue Pater<g ref="char:EOLhyphen"/>noſter whyles, then take foorth your wooll and waſh it, and ſo ye ſhall haue a very fayre colour.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to make wooll a fayre red.</head>
+               <pb n="19" facs="tcp:180840:13"/>
+               <p>When as your wooll is made red after the firſt maner then ſhall ye caſt away that licour that is in the Kettle, and put into it fayre water, and put thereto the cruſe full of fayre made lye of common aſhes, and therein put alſo an ounce of Allum, then as ſoone as it beginneth to ſeeth, put therein your wooll, and ſtyrre it well therein foure or fiue paternoſter whiles, then take it foorth and waſhe it, and ſo ye ſhall haue your wooll a fayre colour. This ma<g ref="char:EOLhyphen"/>ner of dying is after the order of Dorneke in Flaun<g ref="char:EOLhyphen"/>ders.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye a fayre yealowe.</head>
+               <p>If ye will dye yealow with wood, take off the wood leaues, and cut off the rootes, then cut them in peeces, and lay them to ſoke in lye of commo<g ref="char:cmbAbbrStroke">̄</g> aſhes three houres, then ſeeth it a quarter of an hower, till ye thinke it be meetely well ſodde. Then put therein two quartes of water, and as much ſtale Vrine of ſixe dayes olde at the leaſt, ſo let them ſeeth together a little, then cleanſe it thorow a ſiue, and then put vnto the ſame agayne, of lye and Vrine as aforeſayd. Then ſtrayne it thorow a fayre cloth and ſeeth it, and to two pounde of wood take two pounde of Verde<g ref="char:EOLhyphen"/>greace, with the lye that ye haue ſod, your woad and all putting them in your ſayd colour, which muſt be medled and well ſtirred all together. Then ſhall ye boyle it all a little, and it ſhall be well.</p>
+            </div>
+            <div type="recipe">
+               <head>Another colour to dye a yealow with wood.</head>
+               <p>Take and ſet a pot with water on the fire, and make it warme, then take aſhes made of Oken woade, and caſt thereof into the pot with water, and being warme take it from the fyre, and fiyre it well. Then couer it cloſe til the <pb n="20" facs="tcp:180840:14"/>next daye. Then poore the cleareſt lye thereof thorowe a cloth ſoftly into another veſſel or pan, then take of good wood, and breake the rootes off, and then cut them ſmall, then waſh &amp; rince them in cold water, &amp; then put the<g ref="char:cmbAbbrStroke">̄</g> into the lie, and there let them ſoke a night, then take &amp; ſeethe it, til the halfe be conſumed, and when it is well ſod, then all hote, clenſe it thorow a fayre cloth, then muſt yee haue of verdegreace wel &amp; finely beaten into pouder, and blend therof with a ſpoone amongſt your other ſtuffe, this muſt be done incontinent therevpon, and alſo your lye thervn<g ref="char:EOLhyphen"/>to muſt be very ſtrong made.</p>
+            </div>
+            <div type="recipe">
+               <head>How to dye linnen or thread red.</head>
+               <p>As when ye wil dye anye Linnen or threade red, yee ſhal take one pound of ſamfleure, and let it ſoke halfe a day and a nighte in water milke warme, then put it into a thicke bagge or ſacke, and therein waſhe and rynce it in the riuer till the bagge bee therewith red, then wring the water well foorth, and ſo take oute your Sam<g ref="char:EOLhyphen"/>floure, and ſpread it vppon a fayre boorde or Table and make (as it were) a little thinne bedde thereof, then ſtrewe thereon of white aſhes, in making beddes of youre Samfleure, and when ye haue ſtrewde them with aſhes, ye ſhal take to one pounde of Samfleure, a guarter of a pou<g ref="char:cmbAbbrStroke">̄</g>d of aſhes, which aſhes muſt be burnt and made of the lyes of white Wine, and it muſt be well chafte betwixte your handes, the one againſt the other, then make thereof a ſmall heape, and ſo let it reſt the ſpace of fyue houres. Then ſhall ye rubbe it agayne till it waxe warme, then haue readye a fayre baſen, and ſette it vnder your ſtuffe, that it may runne therein, and alſo wring out the iuyce thereof into the ſayd Baſon. Then caſt therein a pynte of wine vyneger that is very good, then yee maye putte therein a pounde of yearne, and it ſhall doe well. But <pb n="21" facs="tcp:180840:14"/>to dye your Linnen cloth, ye ſhall put it in before youre yearne or Fuſtian. Then lay it therein a day and a night, then take forth your linnen or yearne, and then put there<g ref="char:EOLhyphen"/>in a gallon of aſhes of the Aſhe tree, and therevnto youre linnen, yearne, or fuſtian, and ſo let it lye therein halfe an houre, then take it oute and wring it as well as you can, then by and by hang it in the ſunne, then take that water that ye ſoked firſt your Samfleure in, and ſtrayne it (as aforeſayde) into the baſon vnto the other colour, then put therein a glaſſefull of Vineger, and then you maye putte therein your yearne, fuſtion, or linnen cloth, and doe there<g ref="char:EOLhyphen"/>vnto as is aforeſayd.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to dye Linnen in a fayre roſe redde colour.</head>
+               <p>To dye a fayre redde roſe colour of Linnen, yee ſhall take to euery iiii. yardes and a halfe of Linnen, halfe a <abbr>li.</abbr> of good gall nots, and ſeeth them in fayre water al whole, the ſpace of ii houres, then take it from the fyre, &amp; poure that water into another veſſell or fatte, then put your lin<g ref="char:EOLhyphen"/>nen into the ſayd water, and let it ſoke therein the ſpace of foure houres, then take it forth and wring the lycoure wel forth. Then take fayre water in a kettle, and ſet it on the fyre, and put therein a quarter of a pounde of Allum, and when it is readye to ſeeth, take it from the fyre, and put youre cloth therein as ſoone as yee haue wrong and ſtraynde oute your gals aforeſayde, but lette it drye a night before firſte, and then turne it well therein the ſpace of a quarter of an houre. So take it forth and wring it well, &amp; then ſeeth two ounces of Braſill in fayre water, the ſpace of two houres, then take that fro<g ref="char:cmbAbbrStroke">̄</g> the fire, and hang another kettle ouer the fire, and putte therein gruys water, ſo warme it a little, and caſt therein two <abbr>li.</abbr> of grening wede, then put your linnen cloth therein, and <pb n="22" facs="tcp:180840:15"/>looke that no Allum haue bene in that water. Then let it lye therin halfe an houre, and ſtyrre it wel with a ſtaffe and then take out thereof the ſayd linnen, ye may then caſt away the ſame liquor, and waſh your kettle cleane, and put therein of the cleareſt braſill water and let it wel co<g ref="char:EOLhyphen"/>lour therein. Then take your Linnen and waſh it wel in fayre water, then take of fayre water in a panne, with a little Allum and ſo ſeeth them both together: and ther<g ref="char:EOLhyphen"/>in ſeeth your Linnen cloth fiue or ſixe paternoſter whiles. Then take out the ſayd cloth and wring it wel, and after that put the ſayd cloth into the kettle of braſill water, and therein ye ſhal turne and wind it wel, the ſpace of a quar<g ref="char:EOLhyphen"/>ter of an houre, then take it forth and wring it a little, and likewiſe you ſhall doe with the dying of the Fuſtian, but vnto your Fuſtian you muſt haue two partes more of Verdigreace and Allum, and that your Fuſtian muſt lye therein half a day and a night, then wring it forth, and let it drye, then after yee maye rayſe his cotton with cardes meete for that purpoſe, if yee wil haue your Linnen more fayrer, caſt in the Kettle with your ſayd braſill, ſome lye made of white Lime, then put your cloth therein, then turne and wind it therein the ſpace of foure pater noſters, and then take it forth thereof and wring it well, and ſo hang it vp to drye.</p>
+            </div>
+            <div type="recipe">
+               <head>How to make your branne water, wherewithall you ſhall vſe to dye red.</head>
+               <p>Ye ſhal take a hat full of wheate branne, and take ſo much water as wil go into the ſmal kettles, ſo let it haue a welling or two on the fire. Then poure it into a fatte. then take two other kettle fuls of water and warme it, and put it therein alſo, but firſt ſtirre it wel, and ſo couer it wel. The firſte day you muſt ſtyre it often, and then it will be the better, then ſhall ye let it ſtande foure or fyue <pb n="23" facs="tcp:180840:15"/>dayes till it waxe the riper, and which will be the better for your purpoſe, and then ye may occupye as you ſhal ſee cauſe.</p>
+            </div>
+            <div type="recipe">
+               <head>For an yron moll in Linnen.</head>
+               <p>To take forth any yron moll in linnen cloth, take a chafing diſh with coles, then couer the coles with a pew<g ref="char:EOLhyphen"/>ter diſhe ſo let it be hote. Then lay your linnen thereon where the moll is, and with a Limon, or an Oringe, but the Limon is better, to rubbe your moll therewith, and ſtill as it dryeth in, lay the iuyce thereon, and ſtil rubbe it ſo, till it be all cleane, and this way will haue it all out. Oft prooued.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye ſilke quoyues in a redde.</head>
+               <p>Ye ſhall firſt lay your ſilke in Allum water, and let it ſeeth therein, and with branne water alſo halfe an houre long both together, then take a little grening weede, and the like of branne water, and let it be made hote, and put the ſilke therein, but let it not ſeeth, but take it oute and rince it in lye, and then in water, and then it wil be fayre and well.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye ſilke in a ſanguine colour.</head>
+               <p>Ye ſhall dye ſilke in a ſanguine, as ye muſt in al ſortes take Allum as ye doe grening weede, then muſt yee take a little fayre water, with a little braſill, and ſeeth them together. Then take part thereof, and ſeeth the ſilke ther<g ref="char:EOLhyphen"/>in, and as that is take<g ref="char:cmbAbbrStroke">̄</g> out, ſo take an other, and then the thyrd tyme, then put it in lye, and ſo clenſe it, as is afore<g ref="char:EOLhyphen"/>ſayde.</p>
+            </div>
+            <div type="recipe">
+               <pb n="24" facs="tcp:180840:16"/>
+               <head>To dye Silke blue.</head>
+               <p>If ye will dye blue ſilke, that ſilke muſt then be white, which ye muſt firſt ſoke in water, and then wring it forth then ye ſhall put it in your blue dye, and there ye maye make it with a light colour or darke as ye pleaſe.</p>
+            </div>
+            <div type="recipe">
+               <head>A fayre greene to dye.</head>
+               <p>If ye will haue a fayre greene, take a little branne wa<g ref="char:EOLhyphen"/>ter, and a little allum, and ſeeth them together, and when the Allum is molton, put your ſilke therein, and lette it ſeeth the fourth part of an houre. Then take again a little branne water, and a little wood, and put it therein alſo, till that it waxe a fayre darke yealow. If ye will haue it more yealower, then put it in the blue dye, wherein yee may make it light or darke as ye pleaſe.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye black ſilke.</head>
+               <p>Take to one pound of ſilk, xii. gall nots, and beat them to pouder, then ſeeth the ſilke with the gals in fayre wa<g ref="char:EOLhyphen"/>ter, a good halfe houre long, then take of the blacke dye, and therein ſeeth it another half houre, then take it forth and let it be colde, and then put it agayne into the blacke dye, and let it there ſeeth another halfe houre, if then it be not fayre: let it ſeeth therein ſo long till it waxe a fayre black, then ſponge it in the water, and ſo let it drye.</p>
+            </div>
+            <div type="recipe">
+               <head>A purple ſilke to dye.</head>
+               <p>When ye wil die a purple ſilke, ye ſhal take to one pou<g ref="char:cmbAbbrStroke">̄</g>d of ſilke, <hi>4</hi> ounces of Allum, and ſeeth the Allum in com<g ref="char:EOLhyphen"/>mon water, &amp; lay the ſilke therein, and let it ſo lye foure <pb n="25" facs="tcp:180840:16"/>houres. Then take to euery pound of ſilke, two pound of purple colour, &amp; ſeeth it together as hereafter is written, which is, ye ſhal take halfe piſſe, and half water togither, &amp; ſeeth it therein till it waxe cleare &amp; fayre, and the<g ref="char:cmbAbbrStroke">̄</g> ſpo<g ref="char:cmbAbbrStroke">̄</g>ge it in fayre water. Alſo to eche pound of ſilke it behooueth to haue foure ounces of Allum. Alſo for red ſilke to dye with crap dye, ſo calde in dutche, which ye ſhall dye with foure pound of Allum, and alſo ye ſhall dye ſanguine ſilk with allum, and alſo yelow ye ſhall dye with allum.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a good black dye.</head>
+               <p>Take a pounde of galles, and fourth parte of coperas, and ſeeth theſe together, then put the cloth therein, and ſtyrre it wel about, then hang it to drie, then prepare your dye as thus, take a good great fat, and put therin a fourth part of Rye meale, and halfe ſo muche of ſwarfe (of the grindſtone, and ſo much of elder barke, and in like of olde yron, and the ſcales of yron, as it comes of by the hammer beating, ſtyrre this all well togither, and ſo let it ſtande three dayes or euer ye put your cloth therein, and at eche tyme let your linnen drye afore ye put it therein.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye a greene.</head>
+               <p>Take a light blue colour and put it into Allum water two houres long, then hang it to the time, there as the wynde may drye it, and then put it into the foreſayd wood and ſo vſe it as it is afore declared.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye a carnaſion.</head>
+               <p>Take purper that is drye, and ſay it to ſoke a night in piſſe, then take your cloth that is allomde, and drye &amp; put
+<pb n="26" facs="tcp:180840:17"/>it therein, but yee ſhall ſeeth the purper twiſe in fayre water, then ſet another fatte by the fyre, and let it ſeeth, and therein yee ſhall firſte put your cloth, and then all weate, put it in to your dye, till it be fayre ynough.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a redde carnation.</head>
+               <p>To make a redd carnation dye, ye muſt dye your white cloth, linnen or woollen, or ſilke yearne, to doe it well, yee ſhall gall and Allome it well. Ye muſt take an hearbe cal<g ref="char:EOLhyphen"/>led Foli in dutche, that ſhall ye finde by ditches &amp; banks, take a pound thereof that is drie, this is in tuftes, and it is hote like wee aſhes, and carnation in ſight, therewith men doe make a red carnation woollen cloth, with the greene or white, or of ſilke, and if any carnation haue loſt his co<g ref="char:EOLhyphen"/>lour, or if anye carnation haue loſt his dye, with that ye ſhall dye it agayne, that it ſhall not leeſe his colour, and to foure elles of cloath, ye ſhall take a pound gruis, or of that hearbe afore named, whiche ye ſhall beate to pouder, Then ſhall yee take lye made of Oke aſhes, mixe a parte therewith, and another part of cleare piſſe cleare and old, of eche like muche. If ye will haue a light dye, take piſſe newe made, and of the foreſayde lye, in like much &amp; there<g ref="char:EOLhyphen"/>with ye ſhall dye, with the foreſaid poulder put therein, &amp; as it is ſod, put in that which ye woulde dye, and ſeethe it two houres long, and then let it drye.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye Linnen.</head>
+               <p>Ye ſhall firſte take to one ſtone of flockes fyue pound of ſope aſhes (which are calde in Dutche <hi>Wee Aſſeen</hi>) of the beſt, with ſixteene gallons of water, ſeeth it together an houre long, and then let it cleare one nighte, then gentlye poure of the vppermoſt thereof, and ſeeth your flockes therein one houre long, and then prooue if your flockes <pb n="27" facs="tcp:180840:17"/>or ſilke be ynough ſod, alſo take a little of your Flockes in your hande, and thruſt it hard to a redde cloth, alſo put it in your mouth, and if it go by and by aparte like a rype apple, then it is ynough ſod. The<g ref="char:cmbAbbrStroke">̄</g> ſpo<g ref="char:cmbAbbrStroke">̄</g>ge it in fayre water, and then putte it in branne water, according to the quan<g ref="char:EOLhyphen"/>titie of the woollen cloth, and ſeeth your Flocks therein, then take it out thereof, and take braſill and put it in wa<g ref="char:EOLhyphen"/>ter according to the quantitye of the linnen, that is to ech elle of cloth foure ounces of Braſill, and as the braſil hath ſod a while, then ſtrayne the braſil thorow a cloth, and put it agayne into your Kettle, and your Flocks alſo, and let them ſeeth, then take a Ladle full of lye and put it therin, thus ſhall ye make it as hye as you will, and if yee will haue it more higher, then put more lye therein, alſo for three pounde of Flockes, take foure ounces of Allum, and ſeeth them together, and if yee will ſeeth dyde Flockes, take lye of Sope aſhes, as before it is written, which yee ſhall ſeeth with Sope aſhes, then ſcoure it, and lette it drye.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye cloth with facet Wood.</head>
+               <p>As ye will dye cloth with faucet Wood, ye muſt make your lye with ſope aſhes of <hi>Denmarke,</hi> and rayne water, which ye ſhall let ſtand three houres long, then ſeeth it, but the Woad muſt be firſt ſod in the lye, and when it is ſodde, let it bee cooled with other colder and ſharper lye, with the laſt lye ye ſhall put too one pounde of yearne, a great peece of Allum, and put it therein. Then ſhal ye put that dye into a fayre Kettle or fatte, then take two ounces of ſpaniſhe greene, which ye ſhal ſoke therein two or three houres long, then toſſe and puſh it vp and downe twiſe or thriſe, and wring it, and with colder lye put therein, and teſſe it with a diſhe too and froe. Alſo another manner
+<pb n="28" facs="tcp:180840:18"/>is, take a diſhe full of vnflect lyme, and quenche it with water, then take too diſhe full of wood aſhes, and mixe it with the chalke all together well, and there of yee ſhall make a good ſtrong lye, and let it three or foure times run thorow the tubbe, then take the faucet woad, and hew or cut it in ſmall peeces, &amp; caſt it into the lye, and let it ſeeth therein halfe an houre long. Then put therein ſope aſhes, and let it ſeeth another good halfe hower, take it then off, &amp; put thereto ſpaniſh greene, &amp; let it boile twiſe, or thriſe, and then ſponge it, alſo with three pound of faucet woad, it behoueth to haue two ounces of ſpaniſh green, &amp; as the cloth haue bene in the firſt licor, if then it be too broune or too yealow, then put thereto of wyne aſhes, &amp; a little allu<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye woollen cloth ſanguine.</head>
+               <p>To dye woollen cloth fayre, ye ſhall firſt ſeethe good rye meale in fayre water, and then put it in a fayre tubbe or pan. Then caſt fayre water thereon, and let it ſo ſtande three dayes to cleare, then take of that water, &amp; put there<g ref="char:EOLhyphen"/>in two ounces of allum, to an elle of cloth, and let it ſeethe two houres long, then let it hang &amp; coole without wrin<g ref="char:EOLhyphen"/>ging. Then put that water forth of the veſſell with the meale, and put therein a pound of the beſt grening wede, and heate that alſo, but let it not ſeeth, the<g ref="char:cmbAbbrStroke">̄</g> put your cloth therein, &amp; toſſe it wel with your hands without ſeething, and take it forth and put it in a panne with fayre lye, and let it lye therein, and ſo let it drye, and it will be a red. If yee will make fayrer, you muſt haue of braſill, take an ounce of Allum and allum it as aforeſaide in another wa<g ref="char:EOLhyphen"/>ter, then ſeeth two ounces of allum with that braſill, in branne water made, and as the braſill haue ſod a while therein, ſo put therein of cold water, then take ſo muche thereof out as will weat your cloth in, and ſtyrre it well therein, then ſhall ye take of other dye, vntil the time that <pb n="29" facs="tcp:180840:18"/>it hath ſufficient ynough, if yee will haue the ſame a ſan<g ref="char:EOLhyphen"/>guine, lay it in fayre lye of Sope aſhes, and there it will haue a fayre ſanguine dye.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye woollen yearne, or cloth.</head>
+               <p>To make this dye, put too foure pounde of woollen yarne, or cloth, two pounde of woad. Put this woad in a Kettle, and caſt therein of fayre water, then caſt agayne halfe a tin diſhe full of aſhes out of the fyre, and as ſoone as it ſeethes, put your woollen yarne therein, then let it ſeeth eyght or nyne pater noſter whiles long, then putte your yarne forth, and put a little water in, out of the ket<g ref="char:EOLhyphen"/>tle, and then a few aſhes out of the harth, and put your woollen yarne agayne therein: and ſo let it ſeeth a good while, if it be a broune blue, it ſhall be a darke greene, and if it be white woollen yearne, ſo it ſhal be a yealow colour</p>
+            </div>
+            <div type="recipe">
+               <head>Agayne to dye woollen yearne.</head>
+               <p>As ye will dye woollen yarne that is greene, youre yearne ye ſhall firſt ſeeth in branne water, whiche is to vnderſtand, to foure pound of yarne, ten ounces of Allum, and let it ſeeth two houres, then wring that out, and put it in the dye thus made. To foure pound of wooll yearne take two pound of woad, and ſeeth the woad well with hearth aſhes, in lye made a day before, ſo let it ſeethe the fourth part of an houre, then put the cleare into a cleane fatte or veſſell, then take the fourth parte of an ounce of ſpaniſh greene, calde Verdigreace, poulder it well &amp; caſt it therein, and ſtirre it with a ſtick or ſtaffe, then put in your yearne, ſo turne and toſſe it therein the fourthe parte of an hower, and then let it drye. If it bee not fayre ynough, then put it in agayne, and doe as before,
+<pb n="30" facs="tcp:180840:19"/>alſo as ye would dye blue woollen yearne, yet ſhall put it firſt in warme water, then wring it forth and dye it blue, as it is aforeſayd.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye with braſill as red as a roſe.</head>
+               <p>Take ſixe elles of linnen, and thereto halfe a pounde of beaten galles, of the beſt: then put it in fayre water, and let it ſeeth about two houres, but the galles ſhoulde ra<g ref="char:EOLhyphen"/>ther be all whole, and when they are ſodde, ſet it from the fyre, and put it gently in another Kettle or fatte, and then put your linnen therein, as hote as you maye handle it, and ſtyrre it therein foure houres long, that done, then wring it well forth, and hang it to drye. Then take foure ounces of Allum, and ſeeth it with water, and when it is ſod, take it from the fyre, and put your galled cloth there<g ref="char:EOLhyphen"/>in, as hote as ye may ſuffer it, the ſpace of a quarter of an houre, then take your branne water and put thereof in a Kettle, and as it is warme, put therein two pound of gre<g ref="char:EOLhyphen"/>ning weede, let it the firſt time ſoke well therein, and let it be well and hote, but not ſeeth, and then put your cloth therein, and ſtirre and handle it well at the firſt with your handes, nye halfe an houre with a ſtaffe toſt well al about, and wel handled in the dye, and then ye ſhall take youre cloth and ſponge it in water and waſhe it cleane. Then take a little allum, and ſeeth it with water, then ſhall yee haue two ounces of braſill ſodde in light water, and putte your cloth therein fiue paternoſters long. Then ſhall yee haue two ounces of braſill ſodde in light water, and putte your cloth therein, then handle and ſtyrre it well therein and ſtirre it well about the ſpace of a quarter of an houre and wring it not to ſore, then drie it. Then if it be not dry ynough, then weate it as before ſayde.</p>
+            </div>
+            <div type="recipe">
+               <pb n="31" facs="tcp:180840:19"/>
+               <head>Howe to make a greene water.</head>
+               <p>Take ny halfe an ounce of Verdigreace, and cruſhe it well in a woodden diſhe, then put thereto the yolke of an egge and too blades of ſaffron, then take of the leaues of ſpurge, halfe a handfull, and beate them in a morter, and thereto caſt a good glaſſefull of Vineger, and ſtrayne it thorow a cloth. Then take of this ſtuffe, and put thereof in a diſhe with the Verdigreace, and ſtirre it well togeather and make it thinne, that it may be the better to dye, or to worke with a penſill, or as ye ſhall ſeeme beſt.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye fayre Linnen with braſill.</head>
+               <p>Ye ſhall take fayre water, and heate it ouer the fyre, then ſhall ye haue the poulder of galles, and put thereof into the Kettle ouer the fyre, and ſo let it ſeeth a quarter of an hower: then take it from the fyre, and take another veſſell and put therein ſo much colde water, as of the o<g ref="char:EOLhyphen"/>ther in the Kettle, and put that hote in the Kettle there<g ref="char:EOLhyphen"/>vnto. Then put your cloth therein, and ſtirre it well vp and downe therein, and as ye haue done ſo a while, then let it lye therein foure houres long in that gall water, then take your Kettle agayne with other fayre water, and ſet it ouer the fyre and make it hote, then put of Allu<g ref="char:cmbAbbrStroke">̄</g> therein to the kettle ouer the fyre, and as that water is hote, and the Allum melted, yee muſt then haue another veſſell or fatte with colde water, as muche as of the other hote water, and put the Allum water therein, then putte your cloth therein, and ſtyrre it as aforeſayde, and ſo let it then lye therein foure houres long, ſo done then yee ſhall wring it out and hang it to drye, or to drye in the ayre, but let it not bee too drye. Then ſhall ye take youre braſill made in poulder, and put it in the panne, and ſo let <pb n="32" facs="tcp:180840:20"/>it ſeeth therein, the quarter of an houre, and before that braſill do ſeeth, ye ſhal take wheat flower, &amp; put therein, &amp; mixe it altogether well in a diſh, and put it into the Ket<g ref="char:EOLhyphen"/>tle before it do ſeeth: thus done, let it ſeeth, and as it hath ſod, then take forth ſo much of the braſil, as ye may put in your cloth, and ſtirre it well about, as is afore declared, thus done, let your cloth reſt therein a good while, then wring it forth, &amp; hang it to dry, &amp; as it is dry, ye ſhall take that lycor that it hath layn in, and put that away, the<g ref="char:cmbAbbrStroke">̄</g> take agayn ſo much braſill as before, &amp; put that cloth therin a<g ref="char:EOLhyphen"/>gayne, and then hang it to dry, and as it is dry, then put it in another lycor, &amp; hang it agayn to dry, &amp; then it is ful done. And to know the quantitie of weight, which is, to e<g ref="char:EOLhyphen"/>uery elle of linnen cloth, ye ſhal take a loot of gall pouder ſo calde in dutch, and as much of allum, and to eche elle of cloth one ounce of braſill.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a fayre yealow.</head>
+               <p>To make a yelow, that ye may worke with oyle, or water ye ſhal take woad, ſo much as ye ſhall pleaſe, &amp; let it ſtand to ſoke a night and a day in lye made with ſope aſhes, and when it is thus ſoked, then ſhal ye ſeeth it, &amp; couer it cloſe ſo long as it ſeeth, thus done, then ſet it from the fire, &amp; put that lycor into another pan, &amp; ſo ſtrayne it thorow a clea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cloth, then take the pan &amp; poure the thinneſt aboue off, ſo long til ye ſee the dye vndercome with al, then take y<hi rend="sup">e</hi> fore ſayd cloth, and ſtraine it again thorow it, into another pan ſo long as ye think the ſubſtaunce of the woad doe tary in the cloth, til ye thinke that that water is thin ynough to ſtrayne, and then ye may vſe it.</p>
+            </div>
+            <div type="recipe">
+               <head>A fayre Linnen cloth to dye blue.</head>
+               <p>For to dye a fayre blue, ye ſhal take a pan of fayre wa<g ref="char:EOLhyphen"/>ter,
+<pb n="33" facs="tcp:180840:20"/>&amp; hang it ouer the fire, &amp; let it be ſeething hote, then muſt ye haue a veſſell of halfe an Ame, ſo cald in dutch, or thereabout, &amp; as your lycor is hote, put thereto 3 pou<g ref="char:cmbAbbrStroke">̄</g>d of wheat bran, &amp; 3 pou<g ref="char:cmbAbbrStroke">̄</g>d of aſhes, &amp; a pound of grening wede, ſtir al this in the pan, &amp; let it ſeeth iii. or iiii. paternoſters lo<g ref="char:cmbAbbrStroke">̄</g>g, the<g ref="char:cmbAbbrStroke">̄</g> take of floray vnder half a pound, &amp; ſoke it in faire water, &amp; let it there reſt a quarter of an houre couered, the<g ref="char:cmbAbbrStroke">̄</g> take your clean veſſel or Ame, &amp; therin put your ſoked flo<g ref="char:EOLhyphen"/>ray, then take the hote lycor ouer the fire, but let it coole or ye put it into the fatte, then put it in and ſtirre it well, and ſo couer it wel and cloſe, and let it ſo reſt ſixe houres long, then vncouer it and ſtirre it wel about a good while then couer it cloſe again, and let reſt other vi houres, then vncouer it &amp; ſtir it as before, &amp; ſo ſtop it agayn, then vnco<g ref="char:EOLhyphen"/>uer it within two or three houres, &amp; looke if the die begin to come, or begin to wax green, if they doe not, let it reſt longer and ſtop it cloſe, if ye ſee it be come, put therein ſome of your cloth that ye would dye, and turne it well therein, then wring it out, and let it reſt <hi>2</hi> or <hi>3</hi> houres: the<g ref="char:cmbAbbrStroke">̄</g> put in agayn your cloth, and vſe it as aforeſayd, &amp; ſo ſtop it well agayn, and let it reſt ſo, two or three houres, til ye ſhall ſee the dye begin to come, &amp; the flower to lie aboue, &amp; to euery going y<hi rend="sup">e</hi> ye go thereto, ſee if the colour be greene ynough, or waxe greene, and when ye ſhall ſee it ſo, ye ſhal ſcom of the flower with a diſh, and then put your cloth a<g ref="char:EOLhyphen"/>gayn therein, ſtir it wel, and wring it forth, then ſtoppe it agayne wel, and thus ye muſt colour three or foure times a day, Then muſt ye take the dye in the deſſell, and hang it ouer the fire agayne, and there let it be hote, and putte therein two pound and a halfe of aſhes. Then put it in the Fatte, and ſo lette it reſt, but ſtoppe it well and cloſe, ſo let it reſt a night, but ſtirre it once in the nighte with a ſtaffe, and ſee in the morning if the dye be come, as afore<g ref="char:EOLhyphen"/>ſayd, and ſo put in your cloth agayne, but lette it not lye therein too long, that it coole not the dye, and as yee <pb n="34" facs="tcp:180840:21"/>haue thus dyed it foure times. The<g ref="char:cmbAbbrStroke">̄</g> ſhal ye make it hote a<g ref="char:EOLunhyphen"/>gayne ouer the fyre, putting therein two pound of pot a<g ref="char:EOLhyphen"/>ſhes, and ſo let reſt all a might, and ſtirre one in the nighte as aforeſayde, and ſtoppe it cloſe, and when ye goe there<g ref="char:EOLhyphen"/>to, ſee if the dye be come, if it be come, ye may dye, as be<g ref="char:EOLhyphen"/>fore, that ye thinke good, and when your colour waxe a fayre greene, then is your dye good and rype, and the flowers will lye fayre aboue, but as it beginnes to waxe yelowe, then it is too rype. Then muſt yee put in more cloth.</p>
+            </div>
+            <div type="recipe">
+               <head>How to dye a fayre Linnen with braſill.</head>
+               <p>Ye ſhall take ſo much linnen as ye will, and to euerye elle of linnen, take two ounces of gall nottes, or xii. nots, theſe nots ye ſhall breake in two or three peeces, then put them in a kettle with water, and let them ſeeth together, and as they haue ſod a quarter of an houre or leſſe, take it of the fyre, and take your cloth forth thereof, and let it a little ſoke by, but let it not drye. As ye haue thus ſod it, ye ſhall take another Kettle with fayre water, and put it ouer the fire, and make it ſeething hote, Then ſhall ye to euery elle of cloth, take two ounces of Allum, which yee ſhall put in the ſayde water, and as it is melted, yee ſhall take the foreſayd cloth, and put it into the ſayde kettle to the Allum, &amp; let it ſeeth together, a quarter of an houre, then take forth of the kettle, and wring it a little, then hang it to drye a little, but not too muche. Then muſt yee haue your ſod braſill as thus: yee ſhall take lye made of wood aſhes, but ſee it be not too ſtrong. And thereof ſo much in your panne as will make your cloth weat, then put your braſill in the panne with the lye, and ſo lette it ſeeth a quarter of an houre, then ſet it from the fyre, and haue ready an earthen panne, and by and by, put your ly<g ref="char:EOLhyphen"/>cor &amp; braſiil therein, then ſhall ye put your foreſayde cloth
+<pb n="35" facs="tcp:180840:21"/>therein, ſtyrre and turne it well therein, but ſee that it be not too drye of the ſayd Allum that it hath bene ſod with. Alſo to foure gallons of lye, ye ſhall put leſſe then halfe a pound of braſill poulder ſmall beaten.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a fayre braſill colour, to worke on cloth or paper.</head>
+               <p>Ye ſhall take a fayre potte, and put therein a pounde of chalke ſmall broken, and put thereto a pottle of good Vi<g ref="char:EOLhyphen"/>neger, and ſtirre it well togither. Then let it ſtand a daye and a night, then poure the cleareſt into a fayre panne, and ſee that no chalke go therein, then take two partes of the ſayd lye, and put it in a fayre pot, and ſet it ouer the fyre, and ſeeth it fiue pater noſter long, then take it from the fyre, and put the lycor in to fayre a panne, and ye ſhall put thereto xiiii. ounces of allu<g ref="char:cmbAbbrStroke">̄</g>, and ſtirre it wel with a ſtaffe, then take the other part, &amp; put it to the ſayd braſill wood, the which ye haue changed, and let it there ſeeth, as afore ſayd, and put that licor into another panne, and put there<g ref="char:EOLhyphen"/>to xiii ounces of Allum, which ye ſhall ſtirre ſo well as a<g ref="char:EOLhyphen"/>foreſayd, and when ye haue toſt it long, put it then to the other, and ſtirre it well, as ye will haue it drye take a pan and fill it full and ſet it in the winde eight dayes or more, and there let it drye, &amp; as it is fayre, ye may worke there<g ref="char:EOLhyphen"/>with.</p>
+            </div>
+            <div type="recipe">
+               <head>Blue Buckeram to dye.</head>
+               <p>Take three pound of gruis of Turwin, ſo calde in dutche, and a pound of Mede, a pound of Floray, and to three pound of Sope aſhes, take lx. quartes of water, firſt ye ſhall put your Floray into a fayre fatte, and put there<g ref="char:EOLhyphen"/>to tenne quartes of water, and ſtirre it well altogither, this muſt be ſo hote that ye cannot ſuffer your hand there<g ref="char:EOLhyphen"/>in,
+<pb n="36" facs="tcp:180840:22"/>in the other water ye ſhall put the gruis, with the a<g ref="char:EOLhyphen"/>ſhes and Mede, and that put together, and ſo ſtand, which ye ſhal ſtir xii. houres long, and waxing a blue, ſo ye may worke with it. If it be not blue ynough, ſo let it ſtand co<g ref="char:EOLhyphen"/>uerd, xx. houres long.</p>
+            </div>
+            <div type="recipe">
+               <head>A red to dye with Crampmede.</head>
+               <p>Take a pound of crampmede, to three elles of linnen, &amp; take a fayre pot with water, and ſet it by the fire till it be ready to ſeeth, and put therein two ounces of gals, and let them ſo ſeeth together, and then put your linnen therein, and take it ſometimes out and in, and at eche time wring it well out. Then take a fayre pot with fayre water, and make it ſeething hote, then put therein an ounce of Allu<g ref="char:cmbAbbrStroke">̄</g>, and ſo let it ſeeth wel, then put your cloth in as aforeſaid. Then take another pot of water, and let it ſeeth therein til it be red, then take that cloth out, and clenſe it al about with a cloth. If ye will haue it more darker then muſt yt haue a lye of vnquenched chalke, with the lyke dye: men with woad aſhes do make a red dye or colour, without vn<g ref="char:EOLhyphen"/>que<g ref="char:cmbAbbrStroke">̄</g>ched lime, in hauing woad aſhes in ſtede of vnque<g ref="char:cmbAbbrStroke">̄</g>ched lime.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye blacke Veluet or linnen.</head>
+               <p>Take of galles and coperas, &amp; ſeeth them together, and put your linnen therein, if it be gray ſilke, then take of el<g ref="char:EOLhyphen"/>der barks, and olde yron, and put all in a hearing barrell or veſſel. Then take gruis or ſwarfe, this ſhal be a thur<g ref="char:EOLhyphen"/>den dele of the fat, the other two parts ſhal be fayre water ſo let it ſtand three weekes long, &amp; ſo ſtirre it often wel a<g ref="char:EOLhyphen"/>bout, and put your gray ſilke therein, and as this is done, ſo ſhall ye hang it to dry, and ſo put it in agayn, ſo often til that it be black ynough. In ſteede of galles ye maye take harkes of Oke, and ſhoemakers blacke.</p>
+            </div>
+            <div type="recipe">
+               <pb n="37" facs="tcp:180840:22"/>
+               <head>To make gray flore.</head>
+               <p>Take flore and lay it to ſoke 24 houres, then wring it out thorow a cloth, then take lye of wyne aſhes, &amp; ſpread it 2 houres long on a fayre table, then take the ſayd lye, and put it in three veſſels, and take the Flore &amp; put it into one of the veſſels, Then put it wel forth, then put that Flore in the leaſt veſſell, then ſo in the middeſt, and in the firſte, but eare ye put the linnen therin, put in vineger &amp; wring it out.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye ſilke red.</head>
+               <p>Take of good wood aſhes, &amp; make a good lye therof, &amp; put therin of willow or facet woad, &amp; barbary wood or yelow wood, &amp; ſoke them therin an houre, then ſeeth a quarter of an houre, then put your cloth therein, &amp; put in a little ſpa<g ref="char:EOLhyphen"/>niſh greene, but that cloth ye muſt firſt allum it.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a black water to dye with.</head>
+               <p>A blacke water to dye all maner of ſilke clothes, ye ſhall take halfe a pound of gall nots, and put thereto ſomewhat leſſe then a pottle of water, and an ounce of ſwarfe of the grindſtone, and a good deale of the fylings of yron, make it ſeeth, and put thereto a quarter of a pound of coperas, and ſeeth all to the halfe, and put therein a pounde of gu<g ref="char:cmbAbbrStroke">̄</g>me a<g ref="char:EOLhyphen"/>rabic, then ſeeth it till al the gumme be melted. Then ſet it from the fire, the older it is the better it wil be.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ To make a thicke water to worke on yealow ſilke.</head>
+               <p>Take a pottle of the beſt vernice ye can, &amp; put in an ounce of brimſtone in fine poulder, &amp; half an ounce of Camphyer,
+<pb n="38" facs="tcp:180840:23"/>then ſeeth it a while, and let it coole, then ſtrayne it tho<g ref="char:EOLhyphen"/>row a cloth, alſo with this ye ſhal worke thinne, and this muſt be ſod with the fourth part of gumme Arabic.</p>
+            </div>
+            <div type="recipe">
+               <head>To worke on yealow ſilke, white, gray or a<g ref="char:EOLhyphen"/>zure colour.</head>
+               <p>Take a pottle of Conduite water, and a fourth part of Arſenicke in poulder, and two ladle full of woad, cut the woad in ſmall peeces, and make it ſeeth as hering, that is ſoftly, then ſet it from the fyre, and put therein ſo much of graynes, as ye put in porrage, and herein alſo ye ſhall put in of gumme of Arraby, ſo much as you ſhall ſeeme good.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a red water.</head>
+               <p>Take a pottle of fayre water, and a fourth parte of gumme, and halfe a pot of faucet woad (ſo cald in dutche) and then ſeeth it together till three pintes be conſumed, then ſet it from the fyre, and herein yee ſhall put halfe an ounce of ſpaniſh greene, and then put in alſo of graynes, ſo much as ye doe in ſeaſoning your pottage.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a red with braſill.</head>
+               <p>Take your Linnen to one pound, take a fourth part of Allum, but firſt ſeeeth allum, then laye your linnen there<g ref="char:EOLhyphen"/>in the ſpace of two houres, then take of beaten galles, and put water thereto, then lay your linnen therein, and put in a quarter of a pounde of braſill, and an ounce of gumme of Arabie. Then let it ſeeth a fourth part in, and then put in your Linnen. If you will haue it a redde, then put in no galles.</p>
+            </div>
+            <div type="recipe">
+               <pb n="39" facs="tcp:180840:23"/>
+               <head>To make a red water for white ſilke or woollen, greene, yealow, violet or azure.</head>
+               <p>Take a pottle of running water, and an ounce of bra<g ref="char:EOLhyphen"/>ſill, ſeeth theſe till the halfe be conſumed. Then take it from the fyre, and put in ſo many graynes, as ye put vnto a pot of porage, and a fourth part of gumme. But if ye wil make it a light red, put it into another fat, whereas there is a quarter of a pound of Allum made in poulder, and ſo let it reſt all a night and it will do well.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a blew.</head>
+               <p>Take three partes of Sope aſhes, and one parte of vn<g ref="char:EOLhyphen"/>quenched lyme, and make a lye thereof, and then lette it cleare, then ſtrayne it thorow a thicke cloth, and yee ſhall take xv. quartes of the ſayd lye, and put thereto a pounde of <hi>Bloemen</hi> (ſo calde in dutche) then ſtyrre it all well to<g ref="char:EOLhyphen"/>gether with a ſtaffe, and warme it ouer the fyre, ſo that ye may not ſcant ſuffer your hande therein, but firſte your cloth muſt be ſod in Allum, and alſo dryed, then put it in the warme dye, two or three tymes, then after, if yee will haue it black or light colour, ſo ye may vſe it, but before all things your dye muſt be warmed, ere ye dye or colour therewith.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a fayre ſanguine dye.</head>
+               <p>Take vpon eche elle of linnen, ſixe galles beaten into poulder, and then take three gallons of water put into a tubbe, and put the poulder of the galles thereto, &amp; ſturre them well togither, then laye your linnen therein, and turne and wend it well. Then take and wring it drye out, then let it lye therein agayne two houres long, but at ech
+<pb n="40" facs="tcp:180840:24"/>houre ye muſt wring it, as before, and lay it therein again in the tubbe, and as it hath layne two houres, &amp; ſo wrong out, then take one ounce of Allum, of the beſt, and three gallons of water in a Kettle, and make it well and hote re<g ref="char:EOLhyphen"/>dy to ſeeth, till all be well molten, then ſet it from the fire, and put your linnen therein, &amp; do it as ye haue done before agayne two houres long, then after that take a panne, and put therein two gallons of water, and warme that lyke the other, then take three ounces of braſil and caſt it there<g ref="char:EOLhyphen"/>in, agayne let it ſeeth a quarter of an houre, then take a good quart of water, and caſt it therein ſeething, and take a quart of that dye, and lay your linnen therein ſix or vii. pater noſters long, ſo that the dye be dronke all in y<hi rend="sup">e</hi> ſayde cloth, then wring it forth and handle it well, then laye the cloth agayne in that dye, toſſe it, and turne it and wend it well therein, and let it lye ſo long therin as aforeſayd, and ſo wring it out, then take the thyrd colour and lay it ther<g ref="char:EOLhyphen"/>in, and let it lye therin a quarter of an houre, and ſo it wil be well.</p>
+            </div>
+            <div type="recipe">
+               <head>A light red dye for ſkinnes.</head>
+               <p>To dye a fayre light red, take xiiii. drye ſkins as they come from Antwerp, and put them in the riuer, or in wa<g ref="char:EOLhyphen"/>ter two dayes, and two nights, then take them out of the ſayd water, and put into a fat, a Kettle full of vnquenched lyme or chalke, and put ſo muche water thereto, as the felles maye well be couered therein, then ſturre them wel with a ſtaffe altogether, and put your felles therein, then turne and toſſe them well, if it be in the ſommer, it ſhall be ynough to lye therein viii. dayes, &amp; ye muſt ech ii. dayes ſee vnto them, if it be in the winter, they muſt lye therein a moneth, then take your felles out, and hang them again in the foreſaid riuers or water thre dayes, &amp; three nights, then after waſhe them well in a tubbe with luke warme <pb n="41" facs="tcp:180840:24"/>water, and ſtampe them with your feete, then after waſh them agayne in the riuer water as aforeſayd, and hang a Kettle ouer the fyre with fayre water, and therin put iiii. pound of Allum, and when it is molten in the water, ſee<g ref="char:EOLhyphen"/>thing hot, putting in ſo much water that it may be no ho<g ref="char:EOLhyphen"/>ter but your ha<g ref="char:cmbAbbrStroke">̄</g>d may ſuffer therin without ſcalding, then ſet it from the fyre and put your felles therein, and ſtirre them well with your hand, ſo let it reſt a day and a night, but as ye go to bed you ſhall ſturre them once wel, then af<g ref="char:EOLhyphen"/>ter take your felles forth, and wring the water well out, &amp; as your felles do waxe ſomewhat drye, ye muſt weat them agayne: then take foure pottles of piſſe, that is ſtale, hang it ouer the fyre in a pan, let it ſeeth well, &amp; ſcum it cleane ſo long as any ſcum will riſe, then put in a pot full of bea<g ref="char:EOLhyphen"/>ten lacke, and let it therein ſeeth a little, and put therein ſo much Allum as a haſel nutte, and giue it therewith a boyling, then ſet it from the fyre, and let it ſo reſt till it be cold to ſuffer your hand therein, then put a glaſſe ful ther<g ref="char:EOLhyphen"/>of in your felles which be readie ſowd like a ſack, &amp; holde it too aboue, &amp; with your other hand hold vnder, and ſhake it vp and down as ye would bolt meale, do thus ſo long til the colour hath wel taken the leather, then turn your fels about, but if it be faire ynough let it ſo be, if it be not faire ynough, put of your ſayd ſubſtaunce againe another halfe glaſſe therein, and ſtirre it about as before, and then rippe your felles, and hang them to drye in ſome hye lofte. And as they be drye, ſo take and lay them a night in a fat with water, and next day taw them on a ſharpe tawing yron, vntill they be all workemanly done, then they are well.</p>
+            </div>
+            <div type="recipe">
+               <head>To make leather red.</head>
+               <p>Take an ou<g ref="char:cmbAbbrStroke">̄</g>ce of Allum &amp; melt it in a gallon of water, the<g ref="char:cmbAbbrStroke">̄</g> take a calues felle &amp; ſpreade it on a rame, ſo it muſt be rub<g ref="char:EOLhyphen"/>bed al ouer with allum water firſt, then inco<g ref="char:cmbAbbrStroke">̄</g>tinent ye ſhal <pb n="42" facs="tcp:180840:25"/>ſtrike it all ouer with braſill water, and let it ſo drye in, and then ſtrike it all ouer agayne, and ſo let it drye in like, but the colour or dye muſt be made warme alwaies, when ye rub thereon. But fyrſt ye muſt make it weat with cold water, and wring it agayne out, and then ſtretche it forth on a bord, and ſo ye may vſe it.</p>
+               <p>The foreſayd braſill water, ye ſhall make thus. Take three gallons of rayne water, and put therein foure oun<g ref="char:EOLhyphen"/>ces of braſill woad made in poulder, and halfe an ounce of Wey aſhes, calde ſope aſhes, with a little ſaffron. Then ſeeth it ſo long till the third part be waſted. Then cleanſe that out, and the pot with rayne water againe, and let the halfe ſeeth away. Then is the ſtrength all out, and with this laſt water ye ſhall colour firſt, and with the firſt wa<g ref="char:EOLhyphen"/>ter ye ſhall dye or colour laſt.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye red felles.</head>
+               <p>To dye red Leather, ye ſhall ſeeth Lack in bene ſtraw, and a curſy piſſe, as aforeſayd is. Then put therin ſo much as two great beanes, and then take an ounce of braſil wa<g ref="char:EOLhyphen"/>ter, and ſo let them ſeeth together.</p>
+            </div>
+            <div type="recipe">
+               <head>To dreſſe Felles with golde.</head>
+               <p>To dreſſe Felles with golde, take broune red, &amp; grinde it on a ſtone, with water mixt with chalke, and lyme wa<g ref="char:EOLhyphen"/>ter, and therewith you ſhall ſtrike your felles twiſe ouer, then lay your ſiluer or golde thereon, and let it drye, then ſhall ye ſmoothe it with a tooth, and ſo ſtrike it ouer, and then drye it in the ſunne.</p>
+            </div>
+            <div type="recipe">
+               <head>To colour greene Felles.</head>
+               <p>To colour green felles, take ſpaniſh greene, and grind
+<pb n="43" facs="tcp:180840:25"/>it vpon a ſtone with wine Vineger, and ſome ſaffron tem<g ref="char:EOLhyphen"/>per this with gumme water and lyme, and ſo ſtrike youre ſkinnes therewith.</p>
+            </div>
+            <div type="recipe">
+               <head>To gylde on leather.</head>
+               <p>Ye ſhall ouerſtrike your leather thriſe with whites of egges, and gumme water, then lay your gold thereon, and lick it well and fayre, or the yolkes of harde roſted egges, mixt with gum water and ground, the red and the graye ſkinnes ye may verniſh them, take a flat baſon, and put fire vnder, and ſpred the felles thereon, and ſtrike varniſhe alſo ouer the ſkinnes, where it is coloured, but afore you ſtrike your felles ſtrike it warme on the Baſon, and then let it drye, then ſmooth the colour all ouer euen, and when it is drie; then licke it, or burniſh it with a tooth, and as ye will haue it fayre, ſo take an end of a tallowe candle, and rub it on your arme from the hand to the elbowe, then ſtrike it all ouer with that parte of your arme, and it is done.</p>
+            </div>
+            <div type="recipe">
+               <head>Agayne to colour leather red.</head>
+               <p>Take the dye for a red leather, and take an ounce of bra<g ref="char:EOLhyphen"/>ſill, in a nealed pot, and ſeeth it till the third part be wa<g ref="char:EOLhyphen"/>ſted, but firſt waſhe your leather in Allum water, or in o<g ref="char:EOLhyphen"/>ther water, but lette it not lye long therein, ſo lette it drye, and put it therein, and let it reſt two dayes and two nightes on a tack, and then hang that leather in the ayre to drye.</p>
+               <p>If ye will haue it ſanguine, take of vyne braunches a<g ref="char:EOLhyphen"/>ſhes, and make lye thereof, and with this lye, ſeeth your braſill woad, and ſo ye may colour red therewith.</p>
+            </div>
+            <div type="recipe">
+               <pb n="44" facs="tcp:180840:26"/>
+               <head>To colour leather greene.</head>
+               <p>Take an ounce of <hi>Equiſetam,</hi> in Engliſh horſetayle, it is an hearbe growing in low places or medowes, put ther to of olde ſtanding water, with a quantitie of Allum pou<g ref="char:EOLhyphen"/>der, with a little coperoſe beate in poulder, ſo vſe it.</p>
+            </div>
+            <div type="recipe">
+               <head>To culler a blue leather.</head>
+               <p>Firſt you ſhal take an ounce of <hi>Endix,</hi> ſo calde in duche, with one ounce of chalke, and a pottle of Vineger, or good ſharpe lye, then put all into a baſon, and there ſlyrre it all well together, firſt your felles muſt be made redy thereto, as afore is declared, then put your ſtuffe thereon, and ſo vſe it as the other, and it wil ſhew a fayre blue element colour.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a fayre red colour.</head>
+               <p>Take your leather which is allumde before, then take of olde piſſe, of ſuch as vſe to drinke much wyne, and let it ſtand til it ſtinke, then take the cleareſt thereof, and ſeeth it til the half be waſted, then take two ounce of lack, with one part of braſill, a part of Allum, &amp; a part of <hi>Salarmonia<g ref="char:EOLhyphen"/>cum,</hi> beate them altogether, and put them into a pot, and ſet it ouer the fire, and ſtir it wel with a white ſtick, vntill the ſtick waxe red as blood, then take it off, &amp; colour ther<g ref="char:EOLhyphen"/>with luke warme.</p>
+            </div>
+            <div type="recipe">
+               <head>Another fine red colour.</head>
+               <p>Take halfe an ounce of braſill poulder, and half a pottle of old water, ſeeth them together, and ſcum it well, then take a little allu<g ref="char:cmbAbbrStroke">̄</g>, which muſt be firſt kild in clay, firſt take <pb n="45" facs="tcp:180840:26"/>it from the fyre, and then put in your ſaid allum, ſo reſerue it, and vſe it as the other.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a light blue colour.</head>
+               <p>Take the flowers of the blue bottles among corne, and pick them off, then grynde them on a ſtone or morter, and put therevnto a little viniger, then temper it with allum as aforeſayd, ſo ſhall ye haue a fayre blue colour, ſo may ye vſe it incontinent for it will not laſt long but chaunge co<g ref="char:EOLhyphen"/>lour.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a white leather blue.</head>
+               <p>Take <hi>hengarten beſien,</hi> ſo calde in dutche, which I take to be the low elder, calde Dane worte, ſeeth the ſayde ber<g ref="char:EOLhyphen"/>ries in water, then with your hande ſtyrre them well a<g ref="char:EOLhyphen"/>bout, and alſo breake them, ſo done, then ſeeth it agayne a while, and ſo let it coole, and being warme, ſtrike all ouer your leather once or twyſe, or as ofte as ye ſhall ſee cauſe, then take of Endir, ſo calde in duche, and ſtrewe of that pouder thereon, and rub it in, and ſo it wil do well.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way for red leather.</head>
+               <p>To make your red, take a pound of Moſherumps with a little of vnquenched lyme, then put thereto a pottle of water, and let it ſtande a night, then take two partes of o<g ref="char:EOLhyphen"/>ther fayre water, and a thirde part of chalke water, with a quantitie of braſill, then put all the ſayde ſtuffe into a lea<g ref="char:EOLhyphen"/>den pot, and let it ſeeth till the halfe be conſumed, then it will be well, and ye may vſe it as the other.</p>
+            </div>
+            <div type="recipe">
+               <pb n="46" facs="tcp:180840:27"/>
+               <head>To make a greene colour.</head>
+               <p>Take the leaues of an hearbe calde night ſhade, then ſtampe or beate it in a morter of ſtone, ſo temper it with Allum, and ſo colour your ſkinnes therewith, alſo ye may take of the greene berries of the greene bery tree (which the paynters vſe) ſtampe them and ſo let them reſt ten or twelue dayes, then ſtrayne them, and put Allum water thereto, and ſtrike your ſkin therewith, but firſte make it warme, and ſo vſe it.</p>
+            </div>
+            <div type="recipe">
+               <head>Another good greene.</head>
+               <p>Take one part of the foreſayd lowe elder berryes, and ſeeth them in ſufficient water, then put therein two oun<g ref="char:EOLhyphen"/>ces of braſill poulder, and an ounce of walkers claye, with a pottle of olde water, let al theſe ſeeth a good while toge<g ref="char:EOLhyphen"/>ther, then put in your beaten allum, but not afore, ſo ſhall it be a fayre colour as the other.</p>
+               <p>If ye will haue it a more darker colour: ye muſt there<g ref="char:EOLhyphen"/>with ſtrike twiſe all ouer your ſkinnes: to haue it a ligh<g ref="char:EOLhyphen"/>ter colour, then ye ſhall mingle it with olde rayne water, and ſo vſe it.</p>
+            </div>
+            <div type="recipe">
+               <head>To colour blacke Leather after the order in Germanye.</head>
+               <p>To colour leather black, take a herring barrell, and lay it three fingers thicke in the bottome with elder barkes, then take the filinges of yron, and ſtrawe it all ouer the ſayde barkes, then take as much barke of elder agayne, and lay it therein, and ſo likewiſe your filings thereon as before. Doe thus, till the ſayd barrell be three quarters filde, and hath taken to the quantitie of foure pottels, or <pb n="47" facs="tcp:180840:27"/>more of the fylinges, then take ſo much of rayne water as will fill it vp to couer it all ouer, ſo let it ſtand a month or that ye doe colour therewith, and euer as it waxeth emp<g ref="char:EOLhyphen"/>tye, fill it vp agayne with filinges, and rayne water as be<g ref="char:EOLhyphen"/>fore, in letting it ſtande (ſo filde) a month after, and al<g ref="char:EOLhyphen"/>wayes let the laſt couer be the fillings aboue, and when ye liſt to colour therewith, vnto three pottles of colour, ye muſt haue iiii. ounces of beaten galles, and two oun<g ref="char:EOLhyphen"/>ces of coperas water, then let it ſeeth together before yee dye, that ye may coulour the better therewith: thus yée may vſe it at your pleaſure.</p>
+            </div>
+            <div type="recipe">
+               <head>To colour a white leather.</head>
+               <p>Firſt take your ſkinnes and hang them in lyme water, till they waxe ſupple, or in chalke water, and when they be well ſoked, if ye will make haſt of them, firſt take of the heere, and clenſe it out of the ſayde water, ſo that all the ſubſtaunce aforeſayd be taken forth of the felles, and be<g ref="char:EOLhyphen"/>ing clenſed then a day or more, then wring the ſayde wa<g ref="char:EOLhyphen"/>ter all cleane forth, and let them drye, and to vi. felles put not aboue two ounces of Allum, and lette your felles lye therein a nighte and a daye, then wring them and drawe them well vntill they be all cleane, and then vſe them.</p>
+            </div>
+            <div type="recipe">
+               <head>Another fayre red colour.</head>
+               <p>Take a felle or felles, and weate them in Allum water and ſalt mingled together, and to iiii. ounces of ſalt, take viii. ounce of Allum to the weating of your ſayde felles, and alſo two ounces of lyme, then ſeeth all in two pottles of rayne water, then ſtrayne it thorow a linnen cloth, and waſh therewith what fell ye will, then ſpreade it abroade on the earth, and take a woollen cloth, and with the ſame <pb n="48" facs="tcp:180840:28"/>lycor, ſtrike the ſayd felles all ouer, and ſo let them drye. Then they will be ready for to receyue your colour, then after that take at the leaſt foure ounces of the lycor of the laſt end of a brewing, with two ounces of braſill poulder, then ſeeth all theſe in two pottles of the lye of ſope aſhes, with one ounce of Allum, and when it is well ſod, take it of the fyre, and all to ſtrike your felles therewith, and the<g ref="char:cmbAbbrStroke">̄</g> let it drye, and ſo they ſhall be ready and ſoft withall, and here yee muſte vnderſtande with what colours yee ſhall ſtrike your felles withall, which is, with the red, and with blue, and alſo greene, for theſe ſhall chieflye abide and not go off, alſo to weat your felles, where linnen yearne hath bene ſoked in, it will be likewiſe very good.</p>
+            </div>
+            <div type="recipe">
+               <head>To colour a black ſpaniſh leather.</head>
+               <p>Take of <hi>Pomplemelc,</hi> ſo calde in dutche, and make it warme, then waſhe your felles therewith till the whyte come no more off, neyther forth thereof, and to a ſmall fell ye ſhall take foure ounces of
+<hi>Venis tot appelen,</hi> ſo calde in dutche, then beate it a little into peeces, and caſt of fayre water thereon, and ſeeth it till it waxe ſoft, ſo that ye may wring it betwixt your hands, then ſtrayne out the water thereof, if it be too hote, take a broade earthen panne, and put the ſayd licor therein, then ſpread your ſkinne abrode and dip your felle therein till it be well weat, doe it ſo iii. or iiii. times, then take good ſhoemakers colour, or black, ſo much as ye ſhal think good, the which ye ſhal make the fell thorow moyſt withal, &amp; put thereto a little vitrial co<g ref="char:EOLhyphen"/>poras, then wring it wel forth, &amp; lay it together, and let it dry ſoftly, then take it or it be thorow drye, and wring it between your hands, for ſo it will be ſoft, do ſo ofte<g ref="char:cmbAbbrStroke">̄</g> times and when it is drye, take of Gooſe greace, or hogs greace in a woollen cloth, and rub it therewith too and fro a good ſpace before a fyre, or by a hote ouen, ſo rub and chafe it
+<pb n="49" facs="tcp:180840:28"/>well in with your hands, that the greace be not ſeene, Of both, Gooſe greaſe is the better, then Linſeede oyle, or ſhoemakers trayne.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way for black leather.</head>
+               <p>To make a black leather, be it ſheepe or other. Firſt take your leather and ſtretche it, then ſprinckle it well oute of your mouth with water, then take your tawing ſtocke, &amp; taw it well therewith, alſo rub and chafe it together with your hands as ſhomakers do, &amp; draw it well with your pa<g ref="char:EOLunhyphen"/>ring yron, the<g ref="char:cmbAbbrStroke">̄</g> put it on your dreſſing bord, &amp; ſtrike it with a woollen cloth til it be al euen, &amp; then ye may colour it, &amp; when it is well coloured, then wring the ſayd colour oute of your ſkinnes, ſo put it in agayne into the ſayde colour, &amp; ſo do as ye did before, at the firſt time it muſt bee alwaye twiſe coloured, then hang it in the ſunne and let it drye, then ye ſhal take it agayne, not being thorow drye, rubbe it, and ſo colour it agayne, as before. If yee haue it verye ſoft: rubbe and chafe it betwixt your handes, euer before ye colour it, ſo being well dyed and coloured, which at the leaſt muſt be v. or vi. times ouer. Thus yee muſte doe for ſheepe ſkinnes, which alſo muſt be dreſt with allum, and when ye lay your colour on them, then take lynſeede oyle, and with a woollen cloth, ſtrike your dreſſing yron there<g ref="char:EOLhyphen"/>with, and when your ſkinnes be thereon well tawde, then take of your ſleight colour or dye out of your fatte al cold, and coloure your ſkinne therewith once after your ſayde linſeede oyle. Then put it together, and wring foorth the oyle and greace therein, and the colour alſo, and being wel wrong out, lay it together, and colour it once againe, and being thus coloured three tymes ouer, then take and drye it, and ſo it is done.</p>
+            </div>
+            <div type="recipe">
+               <pb n="50" facs="tcp:180840:29"/>
+               <head>To gilde on Leather.</head>
+               <p>Firſt ye muſt worke it well, and ouerſtrike it with the whytes of egges, and gum water beaten togeather, then lay your gold thereon, and ſtrike it well, ye maye temper therewith hard yeolks of egges beaten with gum water. The redde and greene ſkinnes ye may verniſh, as to take a baſon with a ſmoothe bottome, and put coles vnder, and then laye, and ſpread your ſkinne thereon, ſo ſtrike youre ſkinne all ouer with verniſh, but afore ye ſtrike it ouer (on the bottome of the baſon or pan) yee ſhall firſte rubbe and warme your ſkinne all ouer on the baſons bottome, then ſtrike your colour all ouer thereon, and ſo let it drye, and being drye, ſmooth it with a ſleke ſtone, and ſo yee ſhall make it fayre.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a lye to dye a blue.</head>
+               <p>When ye will dye a blue, ye muſt make a ſtrong lye, and ye muſt take twiſe ſo many aſhes with a third part of chalke, then make it ſeeth foure paternoſter whiles, then caſt thereto of cleane waxe, whiche will make it clarifye the better, then ſet it ouer the fire, and let it there ſoke two houres or thereabouts, then put into a pan fiue pounde of woad, and put it to the ſayd lye, then hang it ouer the fire, and warme it well without ſeething, and then put it in ſome hearing veſſell, let it remayne there halfe an houre, then caſt therein halfe a pinte of <hi>Zemes,</hi> ſo calde in dutche, and ſtirre it well with a ſtaffe, then couer it wel the ſpace of a quarter of an houre, and then it will be good and redy to dye with, then take of linnen yearne, or woollen cloth, other fuſtian or Oyer: to haue it a light blue, put it but once in, and to haue it a little brouner, put it in twyſe, and to haue it more browner, put it thriſe in, or ſo long till ye
+<pb n="51" facs="tcp:180840:29"/>ſee it broune ynough, and when yee haue dyde what yee pleaſe, let the veſſell reſt till another day. If then yee will dye more yearne, linnen or woollen, then muſt the dye be taken out of the veſſell, and put into a kettle, and put ther<g ref="char:EOLhyphen"/>to foure quartes of lye, as is aforeſayd, ſo couer it wel and let it ſtande one houre, then put thereto halfe a pounde of grening weede, and hang it ouer the fyre agayne, and let it colour well withoute ſeething, then caſt it into the veſ<g ref="char:EOLhyphen"/>ſel with a pint of <hi>Zemes,</hi> and couer it well, and let it reſt a quarter of an houre, and then put therein agayne to dye what ye thinke good, and colour it as is aforeſayde, alſo when ye doe ſet and prepare your fatte, yee muſt haue to e<g ref="char:EOLhyphen"/>uery ounce of greening weede, one quart of good lye.</p>
+            </div>
+            <div type="recipe">
+               <head>To colour or dye a black.</head>
+               <p>Take a veſſell, and put in colde gall water, then laye your fuſtian therein, ſtyrre it and handle it well therein, and then put it into the black dye, and toſſe it and handle it well therein alſo, and then agayn in the gall water, and agayne in the dye, doe thus ſo often till it bee dyed y<g ref="char:EOLhyphen"/>nough.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye a fayre yealow colour as Golde.</head>
+               <p>Lay firſt your linnen in allum water foure howers lo<g ref="char:cmbAbbrStroke">̄</g>g, then take one part of chalk, and two parts of wood aſhes, then make a lye thereof, and ſeeth your dye therewith, al<g ref="char:EOLhyphen"/>ſo the beſt lye to dye with is, to take two partes of wood aſhes, and one part of chalke, worke and vſe it as yee ſhall perceiue beſt.</p>
+            </div>
+            <div type="recipe">
+               <pb n="52" facs="tcp:180840:30"/>
+               <head>To dye Fuſtian gray.</head>
+               <p>Take of hay aſhes, and vyne aſhes by themſelues, and make a lye thereof, then put your fuſtian there in the hay lye, and then in the other lye, do it thus ſo long till yee ſee it all coloured ynough, with theſe and ſuch like yee maye dye linnen gray, but yee muſt put thereto a little more of calles.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye blacke ſilke or veluet.</head>
+               <p>Yee ſhall firſte ſoke your ſilke in gall water an houre long, and then let it drye, then ſhall ye laye it in the lye of ſaeche meale, (ſo calde in dutche) and with aſhes of vynes, and lay it therein xii. houres or more, then let it drye wel, and after ye muſt ſeeth it in black dye two or three times, til that ye thinke it be fayre ynough.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye a ſilke that hath loſt his colour.</head>
+               <p>Take Satten or Damaſke that muſt bee made black, ſeeth it fyrſt in the dye of Oken barkes, then drye it in the wynde, then ſeeth it agayne in your black dye, and ſo let it drye alwayes agayne. And if then it be not blacke ynough, ſeeth it in gall water and black dye, til it be fayre ynough, ſo let it drye, then rub all ouer with butter, or o<g ref="char:EOLhyphen"/>ther greace, and wring it well betweene your handes, then ſtrike it ouer with a fayre woolen cloth, and it ſo wil be wel.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a gray Fuſtian.</head>
+               <p>Firſt lay your Fuſtian to ſoke the ſpace of iii. houres,
+<pb n="53" facs="tcp:180840:30"/>then to viii. elles of Fuſtian, take two ounces of broken galles, and put them into warm water, then put your gal water into another fatte, with eyght quartes of freſh wa<g ref="char:EOLhyphen"/>ter, then lay your fuſtian therein, &amp; ſtirre it wel with your handes therein, toſſe it wel, &amp; wring it forth wel, &amp; laye it therein agayn one houre, &amp; ſo wring it wel forth, then put it into the black dye, and lay it therein another houre, ſo wring it wel, then ſcoure it in the fayre riuer water, and then hang it to drye if then it be not gray ynough, ſoke it agayne in fayre water, and then put into your gall water, and then the black dye, then ſcoure it and drye it, ſo burle it and dreſſe it vp, and ſo it is done.</p>
+            </div>
+            <div type="recipe">
+               <head>Black ſilke to dye.</head>
+               <p>To one pound of ſilke, take xii. gall nots beaten into a fyne poulder, then ſeeth that ſilke with the galles in com<g ref="char:EOLhyphen"/>men water, halfe an houre long, then take of your blacke dye, and ſeeth it therein another halfe houre, then take it forth, and let it coole, and then put it agayne into the dye, and let it ſeeth therein another halfe houre, if then it bee not fayre ynough, ſeeth it therein, til it be fayre, then take and waſhe it out of that colour and hang it to drye, and ſo it is done.</p>
+            </div>
+            <div type="recipe">
+               <head>To colour curried ſkinnes greene, or felles to couer Bookes.</head>
+               <p>Take the buds of white &amp; black thorn, which ye muſt ga<g ref="char:EOLhyphen"/>ther in the moneth of Auguſt, when they beginne to waxe rype and blacke, put them in a well leaded pot, the ſpace of tenne dayes, then put thereto foure ounces of Allum, &amp; boyle them together well, then putte it into a poudring veſſell of Beefe or Porke, and cloſe it well that it take no
+<pb n="54" facs="tcp:180840:31"/>wynd, then ſet it a little in the ſunne, and when ye would colour therewith, take a little of the ſayd coloure, &amp; myxe it with ſome lye, and warme it, and then ſtrike it on the ſkinnes, and ye ſhal ſee a fayre colour. Alſo take Lincaile, or canker of Latine, hony, and mixe them together in like, and put thereto piſſe, ſo much that it may take colour, and alſo ſtayne the ſkinne, and then drye it in the ſhade.</p>
+            </div>
+            <div type="recipe">
+               <head>To make a yealow colour on ſkinnes.</head>
+               <p>Take the rype ſeedes of Nerprun, ſo cald in french, dry them in the ſunne, and when yee will worke therewith, temper it with lye, and with a little allum of the Rocke, and let it reſt till it be molten, the whiche will make it to take a yealow coloure, but the lye muſte firſte bee heate a little.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye thread blacke.</head>
+               <p>Take a quantitie of broken or bruſed galles, and boyle them in water in a ſmall potte, and when they haue a lit<g ref="char:EOLhyphen"/>tle boylde, take out all the galles, and put into the ſame pot ſó much Coperoſe as ye haue had of galles, and put therewith a little gumme of Arabye, and then giue it a<g ref="char:EOLhyphen"/>gayne another boyling, ſo let it boyle a little, and with the ſayd dye, yee ſhall colour therein your threed, then take it forth, and ye ſhall ſee it a fayre ſhining black.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye thread gray.</head>
+               <p>Take of the ſayd black dye, ſo much as ye liſt, and put therevnto halfe ſo much water, more or leſſe as yee will haue your colour deepe or light. Then boyle your threade therein, and you ſhal haue it gray as ye liſt, other browne or lighter, other after a mouſe dunne.</p>
+            </div>
+            <div type="recipe">
+               <pb n="55" facs="tcp:180840:31"/>
+               <head>To dye thread in ſad purple colour.</head>
+               <p>Take the barkes of Pomgranads, &amp; the pilles of dryde Oranges, then boyle them in water with a little Allum, as great as a ſmall nutte, then let it coole, and when it is colde, put your thread therein, and boyle it agayne, and ye ſhal haue a fayre colour.</p>
+            </div>
+            <div type="recipe">
+               <head>For to currie a raw Goteſkinne.</head>
+               <p>Take a gotes ſkinne raw, and put it in warme water, and let it reſt there a day, then ſcrape and cleanſe it very cleane, and take away all the fylth thereof, and to finiſhe it, take water, and ſet it ouer the fyre, and put therein a handfull of fatte, and foure ounces of roche Allum, then ſtyrre all together til it begin to boyle, then ſet it from the fyre, and let it reſt til it be cold, then take an egge, and beate it with a little Oile oliue, this done put your gotes felle in the ſayd water, and ſtirre it well al aboute with your handes three or foure times, and ſo it ſhal be in good caſe and wel curried.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye ſkinnes in a blue like azure.</head>
+               <p>The wooll being cleane taken off, and the felle waſhed cleane in fayre water, ſo wring it al out, then take the be<g ref="char:EOLhyphen"/>ries of the greening tree, as paynters vſe, and the berries of elder, ſeeth them together in water of Allum, then ſtrayne that water, ſo let it reſt, then poure away the vp<g ref="char:EOLhyphen"/>permoſt, and ſtrayne the reſt agayne, then let it drye, and waſhe with that cleare water, but ſee that your felle bee cleane: then take your colour, and ſtrike your felle al ouer therewith being warme, and ſo let it drye, ſo it will bee a good blue.</p>
+            </div>
+            <div type="recipe">
+               <pb n="56" facs="tcp:180840:32"/>
+               <head>To dye ſkinnes with Madder, called Kubea tincto<g ref="char:EOLhyphen"/>rum in Latine.</head>
+               <p>Firſt ſée that your ſkinnes be readye waſhed and wrong cleane, and ſo layde abroade, then ſhall yee weat it all o<g ref="char:EOLhyphen"/>uer with the lyes of whyte Wyne, wherein baye Salt haue bene boyled, and ſo wring foorth that agayne, then take the aſhes of the ſhelles of Creuis, or Sea crabbes, and temper it with the foreſayde water and ſalt, and ther<g ref="char:EOLhyphen"/>with rubbe your ſkinnes and waſhe them well then with cleare water, and wring him, take ruddle &amp; te<g ref="char:cmbAbbrStroke">̄</g>per it with the ſayd lies, and rub it al ouer therewith, &amp; ſo with y<hi rend="sup">e</hi> ſaid aſhes, thus waſh &amp; wring it three times, if it be not then well, ye ſhal giue him a colouring with braſill, and your Madder mixt together with the ſaid water or lies, or that ſome tartar haue bene ſod in, which muſt be made warm, when ye lay your ruddle, ſo leaue it a night, then putte on your Madder, mixt with allum or lyes, or allum cativum ſtieped in water, alſo you may adde vnto it, the ſhering of ſcarlet take<g ref="char:cmbAbbrStroke">̄</g> out of the boyling lye, which is alſo good.</p>
+            </div>
+            <div type="recipe">
+               <head>A good greene to greeneſkinnes.</head>
+               <p>Take firſt and cleanſe your ſkinnes, annoynt and ſoke them well in cold water, then take the berries of the ſap greening tree, and being rype about Michaelmas, take &amp; ſtampe them, and ſo let them reſt iii. or iiii. dayes, then put therto of rayn water a little, and then boyle them with a ſoft fire, in ſtyrring them ſtill, then if ye will haue it lighte greene, put to but a little allum, &amp; the ſadder green put too the more allum in the boyling and boyle it but a little, the<g ref="char:cmbAbbrStroke">̄</g> ye may fold your ſkinnes in the middeſt, and rub him on both ſides therewith, and then with a little poulder of al<g ref="char:EOLhyphen"/>lum, then take aſhes burnt of ſheepes dung, and all ouer <pb n="57" facs="tcp:180840:32"/>rub your ſayd felles therwith on both ſides, then rub him with the ſayd colour agayne all ouer, ſo waſhe him with fayre water and let him ſo drye, but finely wring him out, then ſpread him, and caſt of the foreſayd thinne colour, all ouer the felle, and ſo let him dry, &amp; it wil be a fine colour.</p>
+            </div>
+            <div type="recipe">
+               <head>A ſleighter greene with the ſappe berrie.</head>
+               <p>Let your ſkinnes be firſt annointed, &amp; wel waſhed, and ſo wrong forth, and then ſtretch them as the order is, then take of the ſame ſap berries aforeſayd, let them be ſtampt with roche allum &amp; water, and a little boyld, and therwith giue your ſkinne a ſtroke or two al ouer, &amp; then let it dry, then giue him a colouring with yealow, made of the ſayd berries, ſod with allum water, and agayne of ſaffron, then let it dryé, and ye ſhall ſee a fayre colour.</p>
+            </div>
+            <div type="recipe">
+               <head>Another greene for ſkinnes.</head>
+               <p>Your ſkinnes being annoynted, waſhed and ſpread, ye colour him with the foreſayd ſappe greene, and put vnto it a few weat aſhes, and rub the felle al ouer therewith, &amp; being waſhed and wiped agayn, ſtrike him ouer with In<g ref="char:EOLhyphen"/>dian colour, ſod with roch allum, then let it dry, the<g ref="char:cmbAbbrStroke">̄</g> ſtrike him ouer with the foreſayd yealow, and ſo ye ſhal haue a fayre excellent greene colour.</p>
+            </div>
+            <div type="recipe">
+               <head>To dye a crimoſine colour.</head>
+               <p>Scrape hard ſope, and ſo melt it in commen water, &amp; put your ſilk in a linnen or thin canuas bag, and ſo put it into the Kettle to the ſoped water, &amp; let it boyle ſoftly halfe an houre ſpace, but ſtur it ofte for burning, then waſhe it in ſalte water fyrſte, and after in freſh water, for ech pound of ſilke, take a pound or more of allum, layde ſufficyente <pb n="58" facs="tcp:180840:33"/>in colde water, and therein put your ſilk without the bag, and let it reſt therein viii. houres, then take and waſhe it in freſh water, then wring it, &amp; put it in the pan to y<hi rend="sup">e</hi> crim<g ref="char:EOLhyphen"/>ſine colour, being wel ſtampt &amp; cleane, take iiii. ounce, and boile it with ſo much water as wil couer your ſilke foure fingers aboue in water, and to ech pounde of crimoſine co<g ref="char:EOLhyphen"/>lour, put too three ounces of galles in fyne pounder, or in ſteede thereof yee maye put in halfe an ounce of Arſenic, which is not very wholeſome becauſe of the fume, nor the water thereof, and when it boyleth put in your ſilke as a<g ref="char:EOLhyphen"/>fore prepared, &amp; there let it boyle a quarter of an houre, then wring it a little, and drye it in the ſhade, and ſo it wil be fayre.</p>
+            </div>
+            <div type="recipe">
+               <head>To die a black after the common ſort of the coun<g ref="char:EOLhyphen"/>trey women.</head>
+               <p>They take ſo much water as wil couer the hoſe, or o<g ref="char:EOLhyphen"/>ther cloth, but firſte they al to ſtrike their hoſe or cloth, with ſwart of the grindſtone, then they laye alder pilles firſt in the bottome of the veſſel, &amp; thereon lay your cloth or hoſe, and then pilles thereon agayne, then lay your hoſe thereon, &amp; pilles thereon agayn, &amp; then couer al with wa<g ref="char:EOLhyphen"/>ter, ſo let them boyle ſoftly two haures ſpace, and turne your cloth often therein, then ſee if it be black ynough, if not, take new ſwart, and pilles, and vſe them as yee did at the firſt, and ſo boyle them agayne til they be black, then ſcoure and waſhe them out, and it is done. Some women doe take (in ſteede of alder) plumtree pilles, ſome blacke thorne, and ſome yong oken pilles, and oke apples greene, and ſo dyes with them in like caſe, or the tender ſhewts of brachryers, or greene walnut huſkes, al theſe are good in ſommer to dye with.</p>
+            </div>
+         </div>
+         <div n="metal-working" type="part">
+            <pb n="59" facs="tcp:180840:33"/>
+            <head>How to harden Jron and Steele, and alſo to ſoften, to ſowder, and to gylde.</head>
+            <div type="recipe">
+               <head>To make Yron or ſteele as fofte as copper.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>Ake a chalk ſtone vnſlect, with as much allum,</hi> firſt ſtampe the Allum verye fine in a morter, then take your chalke and mingle therewith, then ſpread it half a finger, or a finger thick, on a linnen cloute, and wrap your yron therein, whiche yee would haue ſoft, and lay it in the middeſt of a fyre, &amp; there let it lye an houre or more, till the fyre is out and bee all cold of himſelfe without any other thing done to it. Then ſhall ye take out your yron or ſteele, and it will be as ſofte as it were right copper in his hardneſſe.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to ſoften.</head>
+               <p>Another way for the ſame, take only a white fyre turffe, and lay your yron or ſteele in the middeſt thereof, and lay it in the fyre, and let it lye there ſo long, til the fyre do go forth, and waxe colde of it ſelfe, then take it out, and it ſhal be as ſoft as neede ſhall require.</p>
+            </div>
+            <div type="recipe">
+               <head>To make Yron ſofte.</head>
+               <p>Take the water, or the iuyce of Rafany, which I take to be the Rape, then heate your yron hoce, and quenche it therein, and it ſhal become ſoft agayne.</p>
+            </div>
+            <div type="recipe">
+               <pb n="60" facs="tcp:180840:34"/>
+               <head>Another way to make yron ſoft.</head>
+               <p>Take of Sope aſhes, and vnſlect lyme, of eyther alyke, then make a lye thereof, whiche lye yee ſhall ſtrayne nyne tymes thorowe a ſtrayner, then take other yron or ſteele, and lay it therein one night, and it will be ſo ſoft ye may eaſilye cutte it, will yee then haue it harde agayne, ſo quenche it in colde water, and it ſhall waxe harde a<g ref="char:EOLhyphen"/>gayne.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to make yron or ſteele ſofte.</head>
+               <p>Take the yelow flowers of Marigoldes, with the ſtele and bloſſome, ſtampe the flowers, and ſtrayne it thorowe a cloth, and put that iuyce into a pot, then take the yron or ſteele that ye will make ſoft, and as red hote as yee canne doe ſleke it in that iuyce, and it will bee as ſofte as Cop<g ref="char:EOLhyphen"/>per.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to ſoften.</head>
+               <p>Alſo take ſlecken and long wormes out of the earth, of eche alike, and a thyrd part of falte, then take an earthen potte, and make it full of holes in the bottome lyke to a ſiue, then take the ſalt, and ſalte the wormes into the pot. Then take another potte, and ſet it vnder that pot, then will that ſalt melt with the wormes, and runne into the o<g ref="char:EOLhyphen"/>ther potte, and that in the vnder potte yee ſhall keepe, then lay a ſtone on that pot, and make it to ſeeth well, and ſcumme it ſo long as any ſcumme will ryſe, then take it from the fyre that it may coole, then ſcumme that off a<g ref="char:EOLhyphen"/>boue, then make your ſteele red hote as fyre, and ſo quenche therein, which yron or ſteele a man may bow like as it were copper: then to make it hard, heate it red hote, <pb n="61" facs="tcp:180840:34"/>and quenche it in colde water, and ye ſhal thinke it were fine ſteele.</p>
+            </div>
+            <div type="recipe">
+               <head>To make yron ſoft.</head>
+               <p>Take an hearbe calde in Latine, <hi>Vngula cabellina,</hi> it is a clote, cald in Engliſh of ſome Colts foote, or Buls foote, take and make a water therof, and make your yron redde hote, whiche yee will haue ſofte, then quenche it in the ſayde water, and it ſhall become ſofte, that yee maye vſe it for your purpoſe, and ſo harden it agayne as the o<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to ſoften.</head>
+               <p>Take Slecken ſo calde in duche, and ſtampe it with ſtrong wyne Vineger, then make your yron or ſteele red hote, that yee will haue ſofte, and quenche it in the ſayde iuyce, and then it ſhall bee ſofte like the other, and to make it harde agayne, wherein to quenche with colde wa<g ref="char:EOLhyphen"/>ter as before.</p>
+            </div>
+            <div type="recipe">
+               <head>To make Steele or Chriſtall ſofte.</head>
+               <p>Take of vnquenched lyme, with as much of ſope aſhes, &amp; thereof ye ſhal make a lye after this maner, whiche is, yee ſhall ſtrayne it thorow a ſtrainer ix. times, then take your ſteele or criſtall, and lay it a night therein and a daye, ſo it ſhall be very ſoft, if ye will haue it hard agayne, ſo quench it in cold water as the other aforeſayd.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to ſoften yron.</head>
+               <p>Take your yron red hote, then quenche it in Linſeede Oyle, doe this ſo often till ye ſhall perceiue it to be ſoft <pb n="62" facs="tcp:180840:35"/>ynough, and another is, take the blood of Eeles, and make your yron hote, and quenche therein.</p>
+            </div>
+            <div type="recipe">
+               <head>Agayne to make yron ſoft.</head>
+               <p>Take of clay, and lappe it round about your yron with a weat cloth, then lay it in a hote fyre of coles, or in a fyre of white turffes, ſo lette it lye till hee coole by him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            </div>
+            <div type="recipe">
+               <head>Another to ſoften yron.</head>
+               <p>Take the iuyce of an hearbe calde in latine <hi>Marubium,</hi> in Engliſh Horehound, with the iuyce of <hi>gherwe,</hi> ſo calde in duche, which I take to be Henbane, and alſo the iuyce of Radiſh, and mixe them with Aquauite, then quenche therein: and when yee will haue it harde agayne, then make it red hote as before, and quenche it in colde water.</p>
+            </div>
+            <div type="recipe">
+               <head>To make yron as ſofte as leade.</head>
+               <p>Take and make blacke flintes into a fine pouder, and grynde it well vpon a paynters ſtone, the<g ref="char:cmbAbbrStroke">̄</g> put it in an yron panne, and make it red hote, then caſt it on a marble ſtone, till it be nye colde, and then agayne make it red hote, then let it coole, and grynde it ſo long till it cleaue to the ſtone and grynder lyke clay, then put that in a glaſſe, and ſet it vnder the eaues of a houſe, where the ſunne commeth not nye in the day, then the night after take out the water, that ye ſhall finde in the glaſſe aboue thereon, then take that pouder, and grinde it with the water, and put it in a ſtillatory, and let it ſtille out the halfe, then reuerſe the water agayne vpon the poulder, and ſtill it agayne with a ſoft fire, then take and ſeeth that water till the halfe bee waſted, ſo done: then take ſome yron blade that is newe <pb n="63" facs="tcp:180840:35"/>broke in two, &amp; put it together &amp; holde it ſo a little while, then take of the water which was ſod to the halfe, &amp; with a fether lay it fyrſt on the one ſide of the blade, and when that water is colde, then lay it on the other ſide, and it wil ſowder faſt with that water.</p>
+               <p>And with this water ye may make ſteele as ſoft as lead, or butter, &amp; to make thereof with tooles, as in waxe what ye liſt. Alſo this water is a ſouerayne thing to helpe the goute, if therewith it be annoynted where the greefe is, &amp; it wil ſoone remedy it. With this water ye may make let<g ref="char:EOLunhyphen"/>ters on yron or ſteele, to write with a water thereon with your pen. Then after take of the vnſodden water, and put thereto ſome ſaffron, and grynde it together, and then draw thereon what ye will with other water, and ſo let it drye, which ſhall ſeeme a fayre colour like golde, thus ye may mixe and grynde any colour ye pleaſe with your ſod<g ref="char:EOLhyphen"/>den water, and it will ſhew in like fayre.</p>
+            </div>
+            <div type="recipe">
+               <head>To make Steele or yron ſoft.</head>
+               <p>Take the iuyce of Hemloc, ſtamp and ſtrayne it, then put vnto it of neates Oyle, and ſo warme it, and beeing warme, make your yron or ſteele red hote, and quenche therein, and then heate your yron agayne three or foure times, and ſo quenche therein, til ye ſee your yron become ſoft, and bow like leade, alſo ye may take oyle, and droppe into it molten leade three or foure times, &amp; therin quenche your yron or ſteele alſo.</p>
+            </div>
+            <div type="recipe">
+               <head>To make yron or ſteele ſo ſoft that ye maye ea<g ref="char:EOLhyphen"/>ſily wreath it.</head>
+               <p>Take the gall of a Bull, or of an Oxe, and mixe it with Vernice and piſſe, with the iuyce of Nettles, eche of lyke quantitie, then make your Steele or yron red hote, and ſo <pb n="62" facs="tcp:180840:36"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="63" facs="tcp:180840:36"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="64" facs="tcp:180840:37"/>quenche therein, and ye ſhall ſee experience.</p>
+            </div>
+            <div type="recipe">
+               <head>To make yron ſoft another way.</head>
+               <p>Take Saluiter, Vitrioll, in poulder made and well beaten together: then yee ſhall diſtill them in a Lymbec of glaſſe. Then take the ſayd diſtylde water, and your y<g ref="char:EOLhyphen"/>ron which ye would haue ſofte, lay it therein a day and a night, then take out your yron, and couer it in hote horſe dongue, the ſpace of fifteene dayes, then worke therewith and ye ſhall ſee experience. Alſo in making your yron red hote, ye may quenche it in Oxe dongue, or Cowe dongue mirt with honye, and Oyle olyue. Then heate it and ſo often, quenche therein, and ye ſhall ſee it will be ſo ſofte, that ye may make or worke with it at your pleaſure.</p>
+            </div>
+            <div type="recipe">
+               <head>Another good way to ſoften yron.</head>
+               <p>Take hony and ſcymme it cleane, and then take of freſh new gotes piſſe, a quantitie of roche Allum, as muche of Burras, alſo of Oyle olyue, and ſalt in like portion, then mixe them all wel together, and make your yron red hote, and ſo quenche therein.</p>
+               <p>Agayne, when ye would ſoften any yron or ſteele, firſte holde it ouer the flame of the fyre til it be hote, the<g ref="char:cmbAbbrStroke">̄</g> ſtryke it ouer with ſuet or other greace, then holde it ouer y<hi rend="sup">e</hi> fire, and let it dry in, do ſo twiſe or thriſe and it will be ſoft.</p>
+               <p>Alſo take of horne and ſcrape it vpon leather, and put thereto Salarmoniac, and piſſe thereon, then turne your yron theron being hote, til it hath conſumed your leather and ſtuffe, and ſo it will be ſoft.</p>
+               <p>Likewiſe take of Salarmoniac, of vnſſeet lyme, of eche like, of Venis ſope more then both the other, ſtur all well together, and lay your ſteele therein, and make it moyſte <pb n="65" facs="tcp:180840:37"/>with Vineger, ſo let it reſt therein, foure dayes, and work therwith, ye may vſe final peeces ſo, but for greater, take cow dongue, whites of egges, and clay, temper it with vi<g ref="char:EOLhyphen"/>neger, and lay your ſteele therein.</p>
+               <p>Another, take ſalt, wyne ſtone, of ech in like portion, tem<g ref="char:EOLunhyphen"/>per it with clay altogether, and ſo lay your ſteele therin, &amp; ſo lay it in the fyre, the ſpace of two houres, then take it forth, and let it coole of it ſelf, and it will be ſoft.</p>
+               <p>Agayne, take of ſope and vnſleked lyme, of eche in lyke portion, and of Salarmoniac ſomewhat leſſe, and work &amp; make a paſte thereof, then lay your yron or ſteele therin, &amp; ſo lap it round with clay, and lay it in the fyre, and heat it red hote, and then take it forth and let it coole of it ſelf, as the other aforeſaid, and then ye may worke therof at your pleaſure.</p>
+            </div>
+            <div type="recipe">
+               <head>A poulder to ſoften mettals.</head>
+               <p>Take iiii. parts of looking glaſſe, of galles, of other glaſſe, of ſalt, of ech one part, beat &amp; myx them all well to<g ref="char:EOLhyphen"/>gether, &amp; iii. parts of y<hi rend="sup">t</hi> ſame pouder, &amp; i. part of your met<g ref="char:EOLhyphen"/>tal, and melt them together, and ſo vſe it as ye pleaſe.</p>
+            </div>
+            <div type="recipe">
+               <head>To make yron harde.</head>
+               <p>To make yron hard, yee ſhall take the diſtilde water of Varuen, and heate your yron red hot, and quench it there<g ref="char:EOLhyphen"/>in, do thus viii. or ix. times, and ye ſhal ſee it very hard: al<g ref="char:EOLhyphen"/>ſo another, which is, take the greene iuyce of Marubium, cald in Engliſh horehound, with the iuyce of radiſh, mixt with ſome Aquauite, &amp; your yron being red hote, quenche therin or take the ſayd horehound, and dry or burn it, and then make poulder therof, &amp; mixe it with much ſalt, &amp; har<g ref="char:EOLhyphen"/>den therewith.</p>
+            </div>
+            <div type="recipe">
+               <pb n="66" facs="tcp:180840:38"/>
+               <head>Another way to harden yron.</head>
+               <p>Take of Antimonia, Callamint and Coperoſe, beat ech by himſelfe to poulder, and then ſtrew therof on your glo<g ref="char:EOLhyphen"/>ing yron, and ſo heate it agayne, and all to ſmeare it with theſe poulders agayne, then temper it with this iuyce fol<g ref="char:EOLhyphen"/>lowing. Take the iuyce of Celondine, as much of y<hi rend="sup">e</hi> roots as blades, till x pounde waighte, and ſtampe the<g ref="char:cmbAbbrStroke">̄</g>m, and ſeeth the iuyce to ſixe pounde, and when yee will ſeaſon any mettall, quenche in the ſayd iuyce of Celidon, and it ſhall be hard.</p>
+            </div>
+            <div type="recipe">
+               <head>To harden hammers and knyues.</head>
+               <p>To harden all maner of edge tooles, ye ſhal take horſe dongue, and then make your Kniues or other tooles redde hote, and ſo quenche it therein, alſo to take the filinges of yron or ſteele, and they will harden alſo, or take ſhoes and burne them till they be black, and make a pouder thereof, and take of that poulder, with the like quantitie of ſalte, then ſtraw it vnder and aboue your fyles, whiche ſhall bee layde in a ſquare yron, couered with a lid of yron, ye ſhall ſtraw your pouder thick theron, and then ſhut it. This ye ſhall make red hote altogither in a hote fire, and quicklye quenche it in cold water, and ſo let it coole therein, and it will be good and hard.</p>
+            </div>
+            <div type="recipe">
+               <head>To harden another way all kinde of tooles.</head>
+               <p>Take the iuyce of Pentaſilon, that growes in heathes, which is a fiue leaued graſſe, calde of ſome ſynke foyle, with ſo much of the iuyce of Wormewood, keepe this in a veſſell of glaſſe. Then take
+<hi>Pieren</hi> (ſo calde in dutche) and ſtampe it and ſtraine it thorow a cloth, and al too ſtrike o<g ref="char:EOLhyphen"/>uer <pb n="67" facs="tcp:180840:38"/>with this, your yron being red hote, and as it dryeth in, ſtrike it ſo agayne, and it wil make it hard.</p>
+            </div>
+            <div type="recipe">
+               <head>Another good to harden yron or ſteele.</head>
+               <p>Take the iuyce of an hearbe, called <hi>Nigil Romana,</hi> in Latine it is calde <hi>Melanthia,</hi> and make your yron red hot, and quenche therein. Agayne, to make yron ſo harde that it will cut all other tooles, make it red hote, and quenche it in the iuyce of Mouſe eare, whiche is called in Latine <hi>Pilocella.</hi>
+               </p>
+            </div>
+            <div type="recipe">
+               <head>To harden yron ſo hard as ſteele.</head>
+               <p>Take Snayles, and the firſt drawne water of a red die of the which water being taken in the two firſte moneths of harueſt, when it raynes, then ſtill it, or taken in the end of May, then heate your yron red hote, and quench it ther<g ref="char:EOLhyphen"/>in, and it ſhalbe as hard as ſteele.</p>
+               <p>Alſo take <hi>Fimus humanus,</hi> the dongue of men, ſtill it in a Lymbec, ſo that no water come therevnto it, and that it maye bee ſomewhat drye when ye ſtille it, and take ye heede of his ſauour, the water ye ſhal diſtil twiſe in a new glaſſe, in Balneo mary, that is, one glaſſe within another in a pot of water.</p>
+               <p>Ye may do the like, ſtil mens blood of a man of xxx. yeres and of ſanguine complexion, warme and moyſt, and being of a mery nature, and pleaſaunt, and whole &amp; ſound of bo<g ref="char:EOLhyphen"/>dy, ſuch a man to be let blood in the middeſt of his age, and that hath plenty of blood, diſtil of his in the middſt of may or in May. And thus by proofe, and alſo the water of mans dong, if it be wel and rightly ſtild, heate your yron glow<g ref="char:EOLhyphen"/>ing hote, and quenche in that water, ſo it wil make it as hard as ſteele. But if that water be not rightly ſtilde, the yron wil not harden therewith, but bee as ſoft as it was before.</p>
+            </div>
+            <div type="recipe">
+               <pb n="68" facs="tcp:180840:39"/>
+               <head>To make yron or ſteele hard.</head>
+               <p>Take the iuyce of Varuen, cald in Latine var bena, and ſtrayne it into a glaſſe, and ye wil quenche any yron, take thereof, and put to of mens piſſe, and the diſtilde water of wormes, ſo mixe altogether, and quenche therein ſo farre as ye will haue it hard, but take heede it be not too harde, therfore take it forth ſoone after, and let it coole of it ſelf, for when it is well ſeaſoned ye ſhall ſee golden ſpottes on your yron.</p>
+               <p>Alſo the common hardning of yron or ſteele, is in cold wa<g ref="char:EOLhyphen"/>ter, &amp; ſnow water, ſo when the edge ſhall ſeeme blue after his hardning, ſignifieth a good ſign, and a right hardning.</p>
+            </div>
+            <div type="recipe">
+               <head>To make ſteele hard, and to cut well.</head>
+               <p>Take an hearbe calde oxe tongue, or langdebefe, ſeeth it in water, both the rootes and leaues, then make your yron or ſteele red hot, and quench therin and ye ſhal ſee experi<g ref="char:EOLhyphen"/>ence. Alſo take the yelo flagge, cald in Latine <hi>ſpatula faeti<g ref="char:EOLhyphen"/>da,</hi> ſome doe call it ſpurge wort, take with it Varuayne, of eyther like quantitie, then ſeeth them together in fayre water a good ſpace, and then let them ſtand and cleare til it be cold, then heate your yron or ſteele red hote, &amp; quench therein.</p>
+               <p>Yee maye make muſtard, and put vineger vnto it, and quenche your mettals therein. Alſo ye may take the iuyce of earth wormes, with the iuyce of houſleeke, beate them together, then ſtrayne them, and quenche therein, or take of mens heare, and heare of beaſtes, and ſeeth them in wa<g ref="char:EOLhyphen"/>ter til the water wax reddiſh colour, the<g ref="char:cmbAbbrStroke">̄</g> let it coole, ſtrayn it, and quench therein.</p>
+               <p>Alſo ſome do quench in the iuice of radiſh, &amp; the iuyce of ſmallage, mixt together, and the fyne poulder of roſin, put
+<pb n="69" facs="tcp:180840:39"/>therin, and therein quenche your mettals. Agayne: they take the iuyce of Veruin, and the iuyce of an hearbe calde Dragons blood, and of ſcraped horne, with halfe ſo muche ſalt, the iuyce of earth wormes, and the iuice of radiſh, put al theſe together aforeſayd, and therein quench your met<g ref="char:EOLhyphen"/>tals, this way aforeſayd are very good to make your met<g ref="char:EOLhyphen"/>tals ſo hard as ye would deſire, &amp; make them whole, fayre, and bright withal.</p>
+            </div>
+            <div type="recipe">
+               <head>To make yron hard without any crackes, clefts, or warpinges.</head>
+               <p>Take firſt ſuet or tallow of a beaſt, and melt it, then put it in ſome pot, or ſome other veſſell, whereas colde wa<g ref="char:EOLhyphen"/>ter is, and this molten ſuet muſt be a finger thicke vppon the ſayde water, and when ye will harden any thing, ye muſt put it downe ſoftly thorow the ſuet, into the ſayde water, and the quenching firſt in the ſuet, and then in the Water, it doth ſaue it withoute cracke, clefte, or war<g ref="char:EOLhyphen"/>ping.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to harden yron.</head>
+               <p>Take the iuyce of Varuin, and take of land wormes in the field, after the plough, or a nights in gardens, and put a pinte of thoſe wormes into a leaded pot, then put vnto a good handfull of ſalt, then ſtur them wel, and ſo there will come a water of them, and that water ſtraynde vnto the water or iuyce of varuin, and when they bee together, yee ſhall quenche therein. This way is good for al wea<g ref="char:EOLhyphen"/>pons.</p>
+            </div>
+            <div type="recipe">
+               <head>A way to harden Pikeaxes, Fyles, or other tooles.</head>
+               <p>Take the iuyce of Radiſh, the iuyce of Cadloc, the iuice of
+<pb n="70" facs="tcp:180840:40"/>great worms, a quantitie of gotes blood, mix altogether, &amp; your weapons being ground, quenche therein, &amp; likewiſe your yron, to make it hard. But to harden, Mayles, Ares, Knyues, and ſuch, is to quench in the iuyce of radiſh, alſo men oft tymes to make files hard, do quenche in Linſeede oyle, or with ſcrapt horne, or with gotes blood.</p>
+            </div>
+            <div type="recipe">
+               <head>To harden tooles to hew all other.</head>
+               <p>Ye ſhall gather of fielde ſnayles, or houſe ſnayles, with their ſhelles, then ſtampe them a little, and diſtil them in a Lymbec, and in that diſtild water, harden your ſteele or y<g ref="char:EOLhyphen"/>ron, but if ye wil haue it very hard, ye ſhal take ſande, and brymſtone, and grinde them together, and ſo ſtrewe it on your yron or ſteele being red hote, and then quenche it in the ſayd water, and they wil be very hard.</p>
+            </div>
+            <div type="recipe">
+               <head>A way of hardning of Augars, Perſars, and ſuch like.</head>
+               <p>Ye ſhal take of mens vrine old and cold, with the iuice of varuen, and the iuice of wormes, of ech like quantity, then ſtur it wel altogether, and ſo quench your mettals therin, ſo farre as ye wil haue it hard, then let it coole ſoftly of it ſelfe, till ye ſee ſpots like golde ryſe thereon, then take it out of the ſayd water, and they wil be wel.</p>
+            </div>
+            <div type="recipe">
+               <head>To ſet a colour or Verniſh on yron.</head>
+               <p>To verniſh yron or ſteele, take the gall of a Calfe (and your yron or ſteele being cleane verniſhed,) take &amp; ſtryke with a cloth your gall thereon, and then let it drye in the ſunne, and it will ſhew like a gold colour.</p>
+            </div>
+            <div type="recipe">
+               <pb n="71" facs="tcp:180840:40"/>
+               <head>To colour tinne, or copper, or to colour the buckles of gyrdles, and ſuch.</head>
+               <p>Take of Linſeede oyle ſo much as ye liſt, ſet it on the fire, and ſcymme it cleane, then put therein of Amber, and of Alopaticum, in like portion, then beat and ſtyrre it wel altogether, with the oyle ouer the fyre, till it waxe thicke, then take it from the fire and couer it cloſe, then ſet it in the earth three dayes, and when ye liſt to occupy thereof, ſtryke your mettall al ouer therewith, and ſo let it drye as aforeſayde in the Sunne, and ſo yee ſhall haue a golden colour.</p>
+            </div>
+            <div type="recipe">
+               <head>How to gylde vpon yron or ſteele.</head>
+               <p>Take a quantitie of wyne ſtone, with as muche Salar<g ref="char:EOLhyphen"/>moniac, and like of Verdegrece, and ſome ſalt, then ſeethe altogether in whyte wyne, then ſtryke all ouer your burniſhed yron or Steele, and let it burne in the ſunne as before, and ye may gyld thereon with commen gold as the order is: and ſo it wil be fayre and good.</p>
+            </div>
+            <div type="recipe">
+               <head>To gyld yron with a water.</head>
+               <p>Take of water or running water, for iii. pound of wa<g ref="char:EOLhyphen"/>ter, take two pound of roche allum, and an ounce of vitriol Romayne, and a peny weight of verdegreace, of ſalge<g ref="char:cmbAbbrStroke">̄</g>ma three ounces, one ounce of Orpement, then boyle al theſe together, and when it begins to boyle, put in ſome lyes of tartre, and bay ſalt, of euery halfe an ounce, make it ſeeth, and being ſoo a prety while, take it from the fyre, and the<g ref="char:cmbAbbrStroke">̄</g> ſtrike your yron therewith, then let it drye agaynſt the fire, and being drye, burniſh it, and it wil be fayre.</p>
+            </div>
+            <div type="recipe">
+               <pb n="72" facs="tcp:180840:41"/>
+               <head>To gylde gn yron another way.</head>
+               <p>Take iiii. ounces of oyle lyne, of Tartre or wine lyes two ounces, and two ounces of the yeolkes of harde roſted egges ſtampt, of Alio Cicotrinum one ou<g ref="char:cmbAbbrStroke">̄</g>ce, a quarter of a dragm of ſaffron, then boyle all theſe in an earthen pot a good ſpace, &amp; if the oyle of linſeed couer not al y<hi rend="sup">t</hi> ſubſtance, put therto ſufficie<g ref="char:cmbAbbrStroke">̄</g>t of water, then annoint your burniſhed yron therewith, and it wil ſhew as the colour of golde.</p>
+            </div>
+            <div type="recipe">
+               <head>To caſt a ſiluer colour on copper for buckles of har<g ref="char:EOLhyphen"/>nes and ſuch.</head>
+               <p>Take of wyne ſtone, of allum, and of ſalt of ech like quan<g ref="char:EOLhyphen"/>tity, then grynd them altogether on a paynters ſtone, and put thereto a leafe or two of ſiluer, and ſo grynde it well with the reſt of your ſtuffe, ſo done, then put it in a leaded pot of earth, and therin put your copper a little while, ſo done, then ſcrape it with your wyar bruſh, then ye ſhal ſee if it be well, if not, let it remayne therein long, and ſo wil it be fayre.</p>
+            </div>
+            <div type="recipe">
+               <head>To gylde yron as Goldſmiths do, with quicke ſiluer, and gold foyle.</head>
+               <p>Take vitriol i. ou<g ref="char:cmbAbbrStroke">̄</g>ce, allum ii. ou<g ref="char:cmbAbbrStroke">̄</g>ce, ſalarmoniac i. ounce, then beate theſe into poulder, and boyle it in commen wa<g ref="char:EOLhyphen"/>ter, the<g ref="char:cmbAbbrStroke">̄</g> take your burniſhed yron, &amp; all to weat it with the ſayde water, ſo then lay your goldfoyle theron, &amp; dry it a<g ref="char:EOLhyphen"/>gaynſt the fire, then burniſh it as men do, &amp; ſo it wil looke fayre, but if ye wil gylt with gold mixt with quicku<g ref="char:cmbAbbrStroke">̄</g>luer, as goldſmiths do, ye ſhal put in a dragme of verdigreace, with half ounce of <hi>Sublimatum,</hi> ſo boyle them together, &amp; let your yron boyle in the ſame water, but being ſo great <pb n="73" facs="tcp:180840:41"/>ye cannot, then rub it therwith, &amp; heat it to receiue better the colour, with quick ſiluer and gold, &amp; when yee haue ſo heated your yron, ye may gyld with the ſame gold ſo mixt and then fume it with a fire lampe, or brimſtone, or waxe.</p>
+            </div>
+            <div type="recipe">
+               <head>A good way to burniſh yron.</head>
+               <p>Take an ounce of Alopaticum citrinum, an ounce of Am<g ref="char:EOLhyphen"/>ber, then mix and beate them togither into a poulder, then ſet it ouer the fyre of coles in a earthen pot, &amp; make it not to hote at the fyrſt, but when it is molten, put thereto a quantitie of ſeething oyle, and ſtur it al wel together with a ſtick, then let it reſt, take it from the fyre and coole, and ſo keepe it, and with this ye may verniſh at pleaſure, as ye do other mettals.</p>
+            </div>
+            <div type="recipe">
+               <head>To ſowder on cold yron.</head>
+               <p>Take two ounces of Salarmoniac, two ounces of ſalte, two ounce of wyneſtone made in poulder, ii. ounce of clock ſpyce, ſo calde in dutche, vi. ounces of looking glaſſe, beate all theſe, and mingle them well together, then put them in a linne<g ref="char:cmbAbbrStroke">̄</g> cloth, &amp; lay it round, a finger thick with good clay, which clay muſt be wel tempered. Then put them in a lea<g ref="char:EOLunhyphen"/>ded pot of earth, &amp; couer it with another like pot of earth, then ſet it ſoftly on glowing coles, ſo let it ſoftly warme, and by little &amp; little encreaſe your heat, till the ſaid ſtuffe be al glowing hote and run, ſo done, then let it coole from the fyre, then take it forth and breake it ſmall, and ſo grynde it to a fyne poulder, and when yee will ſowder a<g ref="char:EOLhyphen"/>ny yron, yee muſte make it faſt on a borde, and ſee that the ioyntes be ſette cloſe together as ye canne, and firſte lay a paper vnder your yron, and put of the ſayd poulder a little betwixt the ſayd ioynts, and alſo vpon al the ioynts, then wrappe it all rounde with claye, ſauing aboue,
+<pb n="74" facs="tcp:180840:42"/>which yee ſhall leaue open to ſowder at, then take of the poulder of Burras, and put it in wine luke warme, or A<g ref="char:EOLhyphen"/>quauite, and ſo let it melt therein, ſo done, take of the ſame wine, and with a feather ſtrike on the ioynts aboue which ve vncouered, then it will begin to ſeeth, ſo when it lea<g ref="char:EOLhyphen"/>ueth ſething, it is then whole ſowdred and ſound, then be<g ref="char:EOLhyphen"/>ing ſo, take of your clay, and ſuch roughneſſe as doeth re<g ref="char:EOLhyphen"/>mayne on the ioynts, which ye ſhall not fyle of, but grynd it of, and thus it ſhal be wel.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to ſowder warme on yron or ſteele.</head>
+               <p>Take of gu<g ref="char:cmbAbbrStroke">̄</g>me water, and beate therewith ſome hearbes, which hearbes, it ſhall not ſkil what, and make it thick as a paſt, and when ye wil ſowder any place, ſtrike thereon, or lay it on the ioynte, then rub it thereon with ſope, and then holde thereto a fyre cole, and it will runne. Then waſhe of the ſayde dough, from the ſowdred place, and ſo it wil be fayre.</p>
+            </div>
+            <div type="recipe">
+               <head>To ſowder on Copper.</head>
+               <p>Take an ounce of Coperas, halfe an ounce of whyte Arſenic, which is calde whyte Orpemente, then make your Coper to runne, and diuide your Arſenicke in two parts, then caſt one part into your copper, and ſtir it well all together, and then caſt in the other parte of your Arſe<g ref="char:EOLhyphen"/>nic to your copper, and ſtir it wel altogether, ſo done, caſt it on a ſtone, and ſpread it thin, and when it is colde, beate it into a fyne poulder, and vſe it likewiſe, as the other be<g ref="char:EOLhyphen"/>fore mentioned.</p>
+            </div>
+            <div type="recipe">
+               <head>To ſowder on Latine.</head>
+               <p>Ye muſt fyle your lattine cleane al ouer, then put the
+<pb n="75" facs="tcp:180840:42"/>ioyntes cloſe together, and thereon ſcrape quicklye youre burras, ſo ye ſhal ſee it wel and ſure ſowdred.</p>
+            </div>
+            <div type="recipe">
+               <head>Another ſowder to ſowder on yron.</head>
+               <p>Ye ſhall ſet your ioynts of yron as cloſe as ye maye, the one vnto the other, then lay them ſo in glowing coles, and then take of Venis glaſſe, made in fine poulder, and youre yron being red hote in the fyre, caſte the poulder of your glaſſe thereon, and ſo it ſhall ſowder of himſelfe, and bee very ſtrong withall. And if ye clap it in clay as aforeſayd ye ſhall not do amiſſe.</p>
+            </div>
+            <div type="recipe">
+               <head>Another good way to gylde on yron or Steele.</head>
+               <p>Take one ounce of Orgall, or Orgyrs, in dutch ſo na<g ref="char:EOLhyphen"/>med, with a thyrde part of Vermillion, and a fourth parte of Bolearmoniac, with as much of Aquauite, then worke and grinde them altogether on a ſtone with lynſeede oyle, ſo done: put therevnto ſome of the ſtone calde <hi>Lapis Cala<g ref="char:EOLhyphen"/>minaris,</hi> the bigneſſe of a hazel nutte, and grynd therwith in the end, three or foure droppes of Verniſh, ſo take it off the ſtone, and ſtrayne it thorow a linnen cloth into a ſtone potte, for it muſt bee as thicke as hony, ſo keepe it, and ſtrike it whereon ye liſt, and ſo let it dry, and then ye may lay your golde, or ſiluer thereon, as aforeſayd.</p>
+            </div>
+            <div type="recipe">
+               <head>A Varniſh like golde, for tinne, Siluer, or buckles of copper.</head>
+               <p>Ye ſhal haue ſmall pots well leaded, then put therein vi. ounces of Linſeede oyle, one ounce of Maſtick, an ou<g ref="char:cmbAbbrStroke">̄</g>ce of Aloepatieum citrium then make them altogether in fine poulder, and then put them into your ſayd oyle, &amp; couer it <pb n="76" facs="tcp:180840:43"/>with ſuch another pot, whiche pot aboue yee ſhall make a ſmall hole in the bottome thereof, wherin ye ſhall put tho<g ref="char:EOLhyphen"/>row a ſmall ſticke, with a brode ende beneath, to ſtur the o<g ref="char:EOLhyphen"/>ther pot withall, and when the pots are ſet iuſt together, one to the other, ye ſhal cloſe the<g ref="char:cmbAbbrStroke">̄</g> al about with good clay, and couer them al ouer alſo, in leauing but the hole open aboue, with the ſtick to ſtir the other pot, ſo done, ſet them ouer the fyre, in ſtirring it ofte, as it doth ſeeth, like pain<g ref="char:EOLhyphen"/>ters verniſh and when ye will gylde therewith, poolliſhe your mettall fyrſt all ouer, and then ſtrike the verniſh all ouer thereon, and then let it dry in the ſunne, if it lye too thinne, ſtrike it ouer agayn ſo often as ye ſhal think good, and ſo let it drye betwixt your ſtriking and then ye ſhall ſee it will do well.</p>
+            </div>
+            <div type="recipe">
+               <head>A way to graue on yron or ſteele, or other kynde of weapons.</head>
+               <p>Take cole of a wille or ſallo, two partes of Vitriol or Copares, two parts of Salarmoniac, worke and beate all theſe together well with Vineger, and make it thick like broth, and when ye will eate or graue any thing withall, draw firſt thereon with this thing following. Take Ver<g ref="char:EOLhyphen"/>milion, &amp; linſeede oyle mixt all together, then dry it, &amp; late it ouer with your paſt a finger thick or more, and the war<g ref="char:EOLunhyphen"/>mer it is, the ſooner it will graue and eate, but ſee too it, it burne not, and when it is dryde well, doe off the ſayde poulder, and cleanſe the caſting out, then take two partes of ſpaniſh greene, calde verdigreace and a part of ſalt, the<g ref="char:cmbAbbrStroke">̄</g> beat them together in a morter, and put vnto it ſtrong vi<g ref="char:EOLhyphen"/>neger, and do as it is aboueſayde, or take Vitriol, Allum, ſalt, Lapis calamynaris, viniger, and ſallo cole, and make it as the other aforeſayd, or take two parts of vitriol, and a third part of ſalarmoniac, and grind them wel al together on a ſtone with vrine or piſſe, then laye it on as it is afore<g ref="char:EOLhyphen"/>ſayde,
+<pb n="77" facs="tcp:180840:43"/>but ye muſt lay it cold on, and ſet it then foure or fiue howers in a ſeller, or low coole place, for it wil be the better.</p>
+            </div>
+            <div type="recipe">
+               <head>A water to eate or graue on yron or ſteele.</head>
+               <p>Take of verdigreace, of Mercury ſublyme, of vitriol, &amp; of Allum, of ech a like, then beat them ſmal, &amp; ſo put it into a glaſſe, ſo let it ſtand half a day, &amp; ſtyr it often, then ſtrike it al ouer with wax, or yealow lead, mixt with lynſeed oyle, or
+<hi>liiſen ſmout,</hi> ſo cald in dutche, and ſtrike thereon with y<hi rend="sup">e</hi> water in y<hi rend="sup">e</hi> glaſſe, &amp; let it ſtand half a day, but if ye write or lay thin that the water may eate it the ſooner, which yee ſhal couer al the yron or ſteele thin with wax, and to draw theron what ye liſt with a penſil in the wax, vnto y<hi rend="sup">e</hi> grou<g ref="char:cmbAbbrStroke">̄</g>d, then ſtrike your water al ouer, and ſo it ſhal eate on your grauen places, or lay theron Mercury ſublimatu<g ref="char:cmbAbbrStroke">̄</g> in your grauen places, and put therevnto vineger, and ſo let it reſt half an hower after, and it wil do wel.</p>
+            </div>
+            <div type="recipe">
+               <head>Another water to eate on yron or ſteeele more ſtronger.</head>
+               <p>Take an ounce of Verdigreace, halfe an ounce of Allum Plumoſum, and half an ounce of Salarmoniac, as much of wyneſtone, and halfe an ounce of Vitriol, and as muche of common ſalt, let al be ſmal beaten, &amp; ſo put together, &amp; put thereto of ſharpe viniger, &amp; ſo let it ſtand an houre, and when to graue or eate any thing therwith, it muſt be firſt graue<g ref="char:cmbAbbrStroke">̄</g>, &amp; ye ſhal write with <hi>Liifen ſmout,</hi> or yelow colour, then let it drye, and then make your foreſayde water hote in a leaded panne, and let it ſtande ouer the fyre, and hold your yron and ſteele ouer the panne, and poure of that hot water thereon with a ladle, that the reſt may fall agayne into the foreſayde panne, thus muſte yee doe ſtill a good
+<pb n="78" facs="tcp:180840:44"/>quarter of an houre, &amp; this doing, the take aſhes or vnſſect lyme &amp; rub it, &amp; looke, of that ye would haue eaten, if it be clean or not, if not, draw it agayn with your yelo matter, &amp; then poure on your ſaid water, and ſo ye ſhal haue it wel.</p>
+            </div>
+            <div type="recipe">
+               <head>To lay gold vpon yron or other mettall.</head>
+               <p>Take of liquid varniſh i. <abbr>li.</abbr> of Turpentine and oyle of lin<g ref="char:EOLhyphen"/>ſeed, of ech i. ounce, then mix the<g ref="char:cmbAbbrStroke">̄</g> wel altogether, and ſo re<g ref="char:EOLhyphen"/>ſerue it, on this ground ye may gild vpon any mettall.</p>
+            </div>
+            <div type="recipe">
+               <head>Another way to gild on yron.</head>
+               <p>Take of bolearmoniac, &amp; white gu<g ref="char:cmbAbbrStroke">̄</g>me, of ech one ounce, the<g ref="char:cmbAbbrStroke">̄</g> put it into a pot of earth wel leaded, &amp; let it ſeeth ther<g ref="char:EOLhyphen"/>in ſoftly with a fyre of coles, &amp; put therin two ou<g ref="char:cmbAbbrStroke">̄</g>ces of lin<g ref="char:EOLhyphen"/>ſeed oyle, &amp; whe<g ref="char:cmbAbbrStroke">̄</g> it doth rope like a thread, it is then a ſigne it is ynough ſod, with which ye maye vſe to gylde as is a<g ref="char:EOLhyphen"/>fore declared, by theſe and ſuch practiſes in mettals, yee may finde out the like of other hereafter.</p>
+            </div>
+            <div type="recipe">
+               <head>A water to eat on mettals.</head>
+               <p>Take an ounce of Saltpeter, an ounce of coperoſe, beat them together, and put them into a double glaſſe, &amp; diſtill a water thereof, then take yelow or red wax, and ſpreade it thin as paper on what mettell yee will, or weapon, then draw theron to the ground with a penſil of ſteele or other, then all to ſtrike it ouer the drawne places with the ſayde water diſtyld, ſo let it remayne xxiiii. houres, which water will eat on your yron or ſteele ſufficiently. The like waye ye may doe with other ſort of mettals.</p>
+            </div>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:180840:44"/>
+            <head>
+               <hi>The table of all the principall thinges</hi> in this Booke.</head>
+            <list>
+               <head>A.</head>
+               <item>AZure colour to worke on. <hi>39</hi>
+               </item>
+               <item>Azure another to worke with. <hi>39</hi>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Black dye after the countrey manner. <hi>58</hi>
+               </item>
+               <item>Blacke ſilke to dye fayre. <hi>24</hi>
+               </item>
+               <item>Black ſilke or Veluet to dye. <hi>53</hi>
+               </item>
+               <item>Blacke water to dye withall. <hi>37</hi>
+               </item>
+               <item>Blacke ſpaniſh leather to dye. <hi>48</hi>
+               </item>
+               <item>Black ſilke to dye. <hi>53</hi>
+               </item>
+               <item>Black thread to dye. <hi>54</hi>
+               </item>
+               <item>Blue colour to make. <hi>39</hi>
+               </item>
+               <item>Blue linnen to dye. <hi>33</hi>
+               </item>
+               <item>Branne water to make, <hi>22</hi>
+               </item>
+               <item>Brazil to dye a red. <hi>30</hi>
+               </item>
+               <item>Brazill colour to worke on cloth. <hi>35</hi>
+               </item>
+               <item>Buckeram to dye blue. <hi>35</hi>
+               </item>
+               <item>Buccking of linnen clothes to ſcoure well.
+<hi>9</hi>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Carnation dye to make. <hi>26</hi>
+               </item>
+               <item>Cloth ſtaynde to helpe. <hi>1</hi>
+               </item>
+               <item>Crampmede to make red. <hi>36</hi>
+               </item>
+               <item>Crane colour Fuſtian to dye. <hi>11</hi>
+               </item>
+               <item>Crimoſine colour to make. <hi>57</hi>
+               </item>
+               <item>Currying of raw Gotes ſkinnes. <hi>55</hi>
+               </item>
+               <item>Colouring of Tinne, Copper, and ſuche. <hi>71</hi>
+               </item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>Dying a fayre yealow. <hi>32</hi>
+               </item>
+               <item>Dying linnen red. <hi>21</hi>
+               </item>
+               <item>Dying with facet woad or willow woad. <hi>27</hi>
+               </item>
+               <item>Dying after the countrey ſort. <hi>58</hi>
+               </item>
+            </list>
+            <pb facs="tcp:180840:45"/>
+            <list>
+               <head>F.</head>
+               <item>Fels how to dye redde. <hi>43</hi>
+               </item>
+               <item>Fels how to dreſſe with golde. <hi>42</hi>
+               </item>
+               <item>Fels to colour greene. <hi>44</hi>
+               </item>
+               <item>Fels how to curry and colour raw. <hi>55</hi>
+               </item>
+               <item>Fels how to dye blue. <hi>55</hi>
+               </item>
+               <item>Fels how to dye with Madder. <hi>56</hi>
+               </item>
+               <item>Fels how to dye a fayre greene. <hi>56</hi>
+               </item>
+               <item>Fuſtian to dye in a graye. <hi>57</hi>
+               </item>
+               <item>Fels how to dye greene with ſappe berries.
+<hi>52</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>Gownes ſpotty to helpe. <hi>5</hi>
+               </item>
+               <item>Golde kepte from ſtayning. <hi>9</hi>
+               </item>
+               <item>Gylding on Leather. <hi>50</hi>
+               </item>
+               <item>Gyld on yron or ſteele. <hi>71</hi>
+               </item>
+               <item>Gylding another way</item>
+               <item>Gylding on yron with quickſiluer. <hi>72</hi>
+               </item>
+               <item>Gilding another waye on yron or ſteeele. <hi>75</hi>
+               </item>
+               <item>Grauing on yron, ſteele, or other weapons.
+<hi>76</hi>
+               </item>
+               <item>Grauing with a water on yron or ſteele. <hi>77</hi>
+               </item>
+               <item>Gilding another way on yron. <hi>78</hi>
+               </item>
+               <item>Gold laying on yron or ſteele. <hi>78</hi>
+               </item>
+               <item>Graye Florey how to make. <hi>37</hi>
+               </item>
+               <item>Greace to take out of Veluets or ſilkes. <hi>17</hi>
+               </item>
+               <item>Gray thread how to dye. <hi>54</hi>
+               </item>
+               <item>Greene to dye fayre. <hi>24</hi>
+               </item>
+               <item>Greene another colour to make. <hi>25</hi>
+               </item>
+               <item>Greene water how to make. <hi>31</hi>
+               </item>
+               <item>Greene a good colour to make. <hi>46</hi>
+               </item>
+               <item>Greene another to make.</item>
+               <item>Greene with ſappe berries to make. <hi>57</hi>
+               </item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Hard yron to make. <hi>65</hi>
+               </item>
+               <item>Hardning of yron another way.</item>
+               <pb facs="tcp:180840:45"/>
+               <item>Hammers and Kniues and other tooles to harden.
+<hi>66</hi>
+               </item>
+               <item>Hardning of all tooles of yron. <hi>66</hi>
+               </item>
+               <item>Hardning of ſteele or yron.</item>
+               <item>Hardning of yron as hard as ſteele. <hi>67</hi>
+               </item>
+               <item>Hardning of yron another way.</item>
+               <item>Hardning of ſteele to cut well. <hi>68</hi>
+               </item>
+               <item>Hardning of yron without crack or warpe. <hi>69</hi>
+               </item>
+               <item>Hardning another good way.</item>
+               <item>Hardning of axes, files, and other edge tooles
+<hi>69</hi>
+               </item>
+               <item>Hardning of tooles to hew all other. <hi>70</hi>
+               </item>
+               <item>Hardning of awgars, perſars, and ſuche.
+<hi>70</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>Iron moules to take forth of linnen. <hi>6</hi>
+               </item>
+               <item>Iron moules out of Linnen another way. <hi>7</hi>
+               </item>
+               <item>Iron or ſteele to ſoften. <hi>59</hi>
+               </item>
+               <item>Iron another way to ſoften. <hi>59</hi>
+               </item>
+               <item>Iron to ſoften with a water. <hi>59</hi>
+               </item>
+               <item>Iron to ſoften another waye. <hi>60</hi>
+               </item>
+               <item>Iron or ſteele to ſoften. <hi>60</hi>
+               </item>
+               <item>Another way to ſoften yron. <hi>60</hi>
+               </item>
+               <item>Another way for the ſame. <hi>61</hi>
+               </item>
+               <item>Another ſoftning of yron. <hi>61</hi>
+               </item>
+               <item>Iron, ſteele, or Chriſtall to ſoften.
+<hi>61</hi>
+               </item>
+               <item>Another way to ſoften yron. <hi>61</hi>
+               </item>
+               <item>Another way for the ſame. <hi>62</hi>
+               </item>
+               <item>Iron to make ſoft as leade. <hi>62</hi>
+               </item>
+               <item>Iron or ſteele to ſoften. <hi>62</hi>
+               </item>
+               <item>To ſoften Iron, eaſily to cut it. <hi>63</hi>
+               </item>
+               <item>Iron to ſoften another way. <hi>63</hi>
+               </item>
+               <item>Another good way to ſoften yron. <hi>64</hi>
+               </item>
+               <item>Iron how to verniſh and colour. <hi>64</hi>
+               </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>Keeping of Linnen long and good. <hi>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+            </list>
+            <pb facs="tcp:180840:46"/>
+            <list>
+               <head>L.</head>
+               <item>Leather how to gyld on. <hi>43</hi>
+               </item>
+               <item>Leather how to dye red. <hi>42</hi>
+               </item>
+               <item>Leather to dye red another. <hi>42</hi>
+               </item>
+               <item>Leather how to colour greene. <hi>44</hi>
+               </item>
+               <item>Lether how to colour a blue. <hi>44</hi>
+               </item>
+               <item>Leather another fayre blue. <hi>55</hi>
+               </item>
+               <item>Leather to dreſſe after the maner of germany
+<hi>46</hi>
+               </item>
+               <item>Leather felles all white to make. <hi>47</hi>
+               </item>
+               <item>Lye to make to dye a blue. <hi>50</hi>
+               </item>
+               <item>Lye to make to take out ſpots. <hi>4</hi>
+               </item>
+               <item>Linnen to dye in a fayre red. <hi>20</hi>
+               </item>
+               <item>Linnen to preſerue with a ſweete water.
+<hi>12</hi>
+               </item>
+               <item>Linnen how to dye with braſill.</item>
+               <item>Another fayre dye with braſill. <hi>31</hi>
+               </item>
+               <item>Linneu to dye with braſill another way. <hi>34</hi>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Mougths to keepe from clothes. <hi>11</hi>
+               </item>
+               <item>Moles of yron to take forth of linnen. <hi>6</hi>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>Oyle ſpots to take out of clothes. <hi>6</hi>
+               </item>
+               <item>Oyle ſpots another way to take out of cloths</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>Parfumes to make for clothes. <hi>4</hi>
+               </item>
+               <item>Parchment ſpotty to help. <hi>7</hi>
+               </item>
+               <item>Paper ſpotty to clenſe. <hi>8</hi>
+               </item>
+               <item>Pouder to make to ſoften mettals. <hi>65</hi>
+               </item>
+               <item>Purple ſilke to dye. <hi>24</hi>
+               </item>
+               <item>Purple ſad colour to dye. <hi>55</hi>
+               </item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>Quoyes of ſilke to colour red. <hi>23</hi>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Red ſilke how to dye. <hi>37</hi>
+               </item>
+               <item>Red water how to make. <hi>38</hi>
+               </item>
+               <pb facs="tcp:180840:46"/>
+               <item>Red to dye with Braſill. <hi>38</hi>
+               </item>
+               <item>Red light dye for ſkins. <hi>40</hi>
+               </item>
+               <item>Red colour fayre to make. <hi>44</hi>
+               </item>
+               <item>Another fyne red to make. <hi>44</hi>
+               </item>
+               <item>Red leather how to colour. <hi>45</hi>
+               </item>
+               <item>Red to dye a fayre colour. <hi>47</hi>
+               </item>
+               <item>Red thread to dye. <hi>20</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>Scarlet greazie to helpe. <hi>1</hi>
+               </item>
+               <item>Scarlet with ſpots to helpe. <hi>6</hi>
+               </item>
+               <item>Sanguine dye fayre to make. <hi>39</hi>
+               </item>
+               <item>Shirts to waſh for ſtayning. <hi>13</hi>
+               </item>
+               <item>Silke leeſing colour to helpe. <hi>52</hi>
+               </item>
+               <item>Silke how to dye a fayre black. <hi>53</hi>
+               </item>
+               <item>Silke how to dye in a ſanguine. <hi>23</hi>
+               </item>
+               <item>Silke ſtaynde how to helpe. <hi>1</hi>
+               </item>
+               <item>Sope to take forth greace ſpots. <hi>2</hi>
+               </item>
+               <item>Sope agaynſt ſpotty woollen to helpe. <hi>15</hi>
+               </item>
+               <item>Sope another for the ſame. <hi>15</hi>
+               </item>
+               <item>Sope to take out oyle and greace. <hi>5</hi>
+               </item>
+               <item>Sope water to helpe all ſpots. <hi>6</hi>
+               </item>
+               <item>Spots or ſtaynes in clothes to helpe. <hi>16</hi>
+               </item>
+               <item>Spots in white ſilke or other colour to helpe.
+<hi>16</hi>
+               </item>
+               <item>Spottes in coloured clothes or others. <hi>2</hi>
+               </item>
+               <item>Spots of greace to take forth. <hi>3</hi>
+               </item>
+               <item>Spots to take out of clothes. <hi>8</hi>
+               </item>
+               <item>Spots in woollen to take forth. <hi>8</hi>
+               </item>
+               <item>Sponging of woollen cloth fayre. <hi>10</hi>
+               </item>
+               <item>Spots in woollen a ready helpe. <hi>12</hi>
+               </item>
+               <item>Syluer colour on copper for buckles. <hi>72</hi>
+               </item>
+               <item>Sowdering cold on yron. <hi>73</hi>
+               </item>
+               <item>Sowdering yron another way, <hi>75</hi>
+               </item>
+               <item>Sowdering on warme yron or ſteele. <hi>74</hi>
+               </item>
+               <item>ſowdering on copper. <hi>74</hi>
+               </item>
+               <pb facs="tcp:180840:47"/>
+               <item>Soudering on Latine. <hi>74</hi>
+               </item>
+               <item>Staynes in linnen to remedy. <hi>8</hi>
+               </item>
+               <item>Staynes on ſilke or woollen to helpe. <hi>12</hi>
+               </item>
+               <item>Stained clothes w<hi rend="sup">t</hi> wyne or viniger to helpe.
+<hi>14</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>To colour Leather black after the order of Germany.
+<hi>46</hi>
+               </item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>Verniſh like gold, for ſiluer, tinne, or Copper.
+<hi>75</hi>
+               </item>
+               <item>Verniſh on yron to make. <hi>73</hi>
+               </item>
+               <item>Veluet being ſpotty to helpe. <hi>6</hi>
+               </item>
+               <item>Veluet to dye in a blacke. <hi>36</hi>
+               </item>
+               <item>Veluet how to dye black or ſilke. <hi>52</hi>
+               </item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>Water to worke on yelowe or other colours. <hi>38</hi>
+               </item>
+               <item>Water to eate on yron or ſteele. <hi>77</hi>
+               </item>
+               <item>Water another to eate on mettals. <hi>77</hi>
+               </item>
+               <item>War to take from clothes. <hi>14</hi>
+               </item>
+               <item>Woollen to dye in a ſanguine. <hi>28</hi>
+               </item>
+               <item>Woollen cloth to dye in colours. <hi>29</hi>
+               </item>
+               <item>Woollen greene yearne to dye. <hi>29</hi>
+               </item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>Yealow to dye fayre. <hi>32</hi>
+               </item>
+               <item>Yealow to dye it fayre. <hi>19</hi>
+               </item>
+               <item>Yealow a golden colour to dye. <hi>51</hi>
+               </item>
+               <item>Yealow fels how to colour. <hi>54</hi>
+               </item>
+               <item>Yealow dye to dye with woad. <hi>19</hi>
+               </item>
+               <item>Yealow to worke on with red water. <hi>38</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180840:47"/>
+         </div>
+      </back>
+   </text>
+</TEI>
